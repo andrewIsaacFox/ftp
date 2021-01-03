@@ -1,0 +1,2266 @@
+[
+{
+ "model": "main.ramonian",
+ "pk": 1,
+ "fields": {
+  "name": "Andrew Fox",
+  "email": "andrewisaacfox@gmail.com",
+  "phone": "4087241736",
+  "parent_name": "Kate",
+  "parent_email": "katelfox@gmail.com",
+  "parent_phone": "4086230509",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "moreh",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 2,
+ "fields": {
+  "name": "Yuval Shekel",
+  "email": "yuvals@live.com",
+  "phone": "6508642362",
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "kohen_gadol",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 3,
+ "fields": {
+  "name": "Matan Sandhaus",
+  "email": "matan.sandhaus@gmail.com",
+  "phone": "4082428366",
+  "parent_name": "Haggit Sandhaus",
+  "parent_email": "Haggits@yahoo.com",
+  "parent_phone": "4085071025",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 4,
+ "fields": {
+  "name": "Nir Reiter",
+  "email": "nirreiter195@gmail.com",
+  "phone": "6692463941",
+  "parent_name": "Zivit Reiter",
+  "parent_email": "zivitreiter@gmail.com",
+  "parent_phone": "9723227449",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "gadol",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 5,
+ "fields": {
+  "name": "Bobby Gorelick",
+  "email": "bgorelick04@gmail.com",
+  "phone": "4086004342",
+  "parent_name": "Wendy Gorelick",
+  "parent_email": "wgorelick1@gmail.com",
+  "parent_phone": "5104350414",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 6,
+ "fields": {
+  "name": "Dan Ovadia",
+  "email": null,
+  "phone": "4086747033",
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 7,
+ "fields": {
+  "name": "Eli Iarovici",
+  "email": null,
+  "phone": "6692463835",
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 8,
+ "fields": {
+  "name": "Amit Roth",
+  "email": "amitgroth@gmail.com",
+  "phone": "4086804234",
+  "parent_name": "Moran Roth",
+  "parent_email": "roth.moran@gmail.com",
+  "parent_phone": "4082039103",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "sgan",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 9,
+ "fields": {
+  "name": "Shai Benzion",
+  "email": "shaishu2006@gmail.com",
+  "phone": "6502798814",
+  "parent_name": "Yael",
+  "parent_email": "yealinda@gmail.com",
+  "parent_phone": "6502798814",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 10,
+ "fields": {
+  "name": "Nadav Ekshtein",
+  "email": "Nadav@ekshtein.com",
+  "phone": "408-616-8903",
+  "parent_name": "Miri Ekshtein",
+  "parent_email": "Miri@ekshtein.com",
+  "parent_phone": "408-203-6840",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "metaksher",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 11,
+ "fields": {
+  "name": "Shahar Ankonina",
+  "email": "shankonina@gmail.com",
+  "phone": "4085077745",
+  "parent_name": "Shlomit Ankonina",
+  "parent_email": "Shlomitanko@comcast.net",
+  "parent_phone": "4084109824",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "metaksher",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 12,
+ "fields": {
+  "name": "Yali Goldstein",
+  "email": "goldstein.yali1@gmail.com",
+  "phone": "408718087",
+  "parent_name": "Tal goldstein",
+  "parent_email": "Tal@talgpdesign.com",
+  "parent_phone": "4083969273",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "kohen_gadol",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 13,
+ "fields": {
+  "name": "Dan Appleman",
+  "email": "dan@desaware.com",
+  "phone": "4084606750",
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "advisor",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 14,
+ "fields": {
+  "name": "Jeremy Palgon",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "advisor",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 15,
+ "fields": {
+  "name": "Or Barzilay",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "advisor",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 16,
+ "fields": {
+  "name": "Noam Azaria",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 17,
+ "fields": {
+  "name": "Liam Berman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 18,
+ "fields": {
+  "name": "Daniel Burnstein",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "alumn",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 19,
+ "fields": {
+  "name": "Roy Cohen",
+  "email": "rcohen730@gmail.com",
+  "phone": "4086504660",
+  "parent_name": "Eran Cohen",
+  "parent_email": "eran99@comcast.net",
+  "parent_phone": "4084833063",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 20,
+ "fields": {
+  "name": "Yotam Dubiner",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 21,
+ "fields": {
+  "name": "Tamir Eliaz",
+  "email": "m.hadistiM@gmail.com",
+  "phone": "6692375471",
+  "parent_name": "Ilanit Eliaz",
+  "parent_email": "ilanit80@gmail.com",
+  "parent_phone": "4083905106",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 22,
+ "fields": {
+  "name": "Daniel Frey",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 23,
+ "fields": {
+  "name": "Yahli Hazan",
+  "email": "Yalul.com@gmail.com",
+  "phone": "408-881-2093",
+  "parent_name": "Nirit hazan",
+  "parent_email": "Hnirit@yahoo.com",
+  "parent_phone": "4083938682",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 24,
+ "fields": {
+  "name": "Noam Joseph",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 25,
+ "fields": {
+  "name": "Ron Kibel",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 26,
+ "fields": {
+  "name": "Ron Konchitsky",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 27,
+ "fields": {
+  "name": "Evan Milenko",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 28,
+ "fields": {
+  "name": "Tzlil Nahum",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 29,
+ "fields": {
+  "name": "Idan Oz",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 30,
+ "fields": {
+  "name": "Manor Raviv",
+  "email": "manor.raviv@gmail.com",
+  "phone": "14083388248",
+  "parent_name": "S_raviv@hotmail.com",
+  "parent_email": "4082982090",
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 31,
+ "fields": {
+  "name": "Ron Rubin",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 32,
+ "fields": {
+  "name": "Dan Sachs",
+  "email": "dan.sachs02@gmail.com",
+  "phone": "4084833244",
+  "parent_name": "Avi Sachs",
+  "parent_email": "Avi.sachs@gmail.com",
+  "parent_phone": "4082037445",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "alumn",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 33,
+ "fields": {
+  "name": "David Scheinkman",
+  "email": "davidscheinkman@gmail.com",
+  "phone": "4089159947",
+  "parent_name": "Rivka Scheinkman",
+  "parent_email": "rivkascheinkman@gmail.com",
+  "parent_phone": "14085806907",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 34,
+ "fields": {
+  "name": "Uriel Segev",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 35,
+ "fields": {
+  "name": "Ariel Shalev",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "shaliach",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 36,
+ "fields": {
+  "name": "Eyal Shay",
+  "email": "eyalshay32@gmail.com",
+  "phone": "4082039716",
+  "parent_name": "Roy Shay",
+  "parent_email": "royshay02@gmail.com",
+  "parent_phone": "6507406982",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "kohen_gadol",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 37,
+ "fields": {
+  "name": "Asaf Schcory",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 38,
+ "fields": {
+  "name": "Evan Spielvogel",
+  "email": "evanspielvogel@gmail.com",
+  "phone": "4084556838",
+  "parent_name": "Stephanie Spielvogel",
+  "parent_email": "stephmls@yahoo.com",
+  "parent_phone": "4089304482",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 39,
+ "fields": {
+  "name": "Grey Stein",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 40,
+ "fields": {
+  "name": "Yanai Tagor",
+  "email": "ytagor@gmail.com",
+  "phone": "4088096188",
+  "parent_name": "Tamar Tagor",
+  "parent_email": "tatagoma@gmail.com",
+  "parent_phone": "4084800989",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 41,
+ "fields": {
+  "name": "Nadav Trigalo",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 42,
+ "fields": {
+  "name": "Elad Warshawsky",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 43,
+ "fields": {
+  "name": "Yahav Yadid",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 44,
+ "fields": {
+  "name": "Itay Avriel",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 45,
+ "fields": {
+  "name": "Amir Reiter",
+  "email": "amirreiter1@gmail.com",
+  "phone": "6692463942",
+  "parent_name": "Gil Reiter",
+  "parent_email": "gilreiter@gmail.com",
+  "parent_phone": "6504997046",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "katav",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 46,
+ "fields": {
+  "name": "Omri Kavaler",
+  "email": "omri.kavaler@gmail.com",
+  "phone": "4084319695",
+  "parent_name": "Inbal",
+  "parent_email": "kavaler.family@gmail.com",
+  "parent_phone": "4083292814",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 47,
+ "fields": {
+  "name": "Ben Shore",
+  "email": "wyldstyle914@gmail.com",
+  "phone": "4085949653",
+  "parent_name": "Ruthie Shore",
+  "parent_email": "shoreruthie@gmail.com",
+  "parent_phone": "4088586191",
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 48,
+ "fields": {
+  "name": "Yali Aharonof",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 49,
+ "fields": {
+  "name": "Roy Alran",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 50,
+ "fields": {
+  "name": "Jonathan Benayoun",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 51,
+ "fields": {
+  "name": "Roee Biluar",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "shotare",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 52,
+ "fields": {
+  "name": "Ido Boiman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 53,
+ "fields": {
+  "name": "Oded Bronicki",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "machshev",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 54,
+ "fields": {
+  "name": "Ori Brutman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 55,
+ "fields": {
+  "name": "Amit Cohen",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 56,
+ "fields": {
+  "name": "Shai Dickman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 57,
+ "fields": {
+  "name": "Tal Dickman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 58,
+ "fields": {
+  "name": "Almog Dor",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 59,
+ "fields": {
+  "name": "Yuval Eilat",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 60,
+ "fields": {
+  "name": "Ben Feigon",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 61,
+ "fields": {
+  "name": "Ido Halevy",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "katav",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 62,
+ "fields": {
+  "name": "Tomer Harel",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 63,
+ "fields": {
+  "name": "Barak Kaufman",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 64,
+ "fields": {
+  "name": "Ethan Kidron",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 65,
+ "fields": {
+  "name": "Jacob Labovitz",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 66,
+ "fields": {
+  "name": "Alexander Lara",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 67,
+ "fields": {
+  "name": "Orri Nitzan",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 68,
+ "fields": {
+  "name": "Adi Perets",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 69,
+ "fields": {
+  "name": "Leor Porat",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 70,
+ "fields": {
+  "name": "Ido Saban",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 71,
+ "fields": {
+  "name": "Yuval Schwarzbord",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 72,
+ "fields": {
+  "name": "Omer Shternhell",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 73,
+ "fields": {
+  "name": "Benjamin Sloutsky",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 74,
+ "fields": {
+  "name": "Eylam Tagor",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 75,
+ "fields": {
+  "name": "Aviv Trumper",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 76,
+ "fields": {
+  "name": "Jordan Vodonos",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 77,
+ "fields": {
+  "name": "Nir Weiss",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 78,
+ "fields": {
+  "name": "Amit Wieder",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 79,
+ "fields": {
+  "name": "Yaron Shekel",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "gizbar",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.ramonian",
+ "pk": 80,
+ "fields": {
+  "name": "Amit Zarfaty",
+  "email": null,
+  "phone": null,
+  "parent_name": null,
+  "parent_email": null,
+  "parent_phone": null,
+  "password": "pbkdf2_sha256$180000$KQpSflkP24cN$w6jxbKwb3xTBUgtaac/8tfyr0WqPimJ2ozfNaaQBJHI=",
+  "role": "member",
+  "voting": false,
+  "running": false,
+  "votes": 0,
+  "vote": null,
+  "voted": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 1,
+ "fields": {
+  "name": "key_terms",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 2,
+ "fields": {
+  "name": "ramon",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 3,
+ "fields": {
+  "name": "bbyo",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 4,
+ "fields": {
+  "name": "aza_story",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 5,
+ "fields": {
+  "name": "cheers",
+  "protected": true
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 6,
+ "fields": {
+  "name": "prayers",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 7,
+ "fields": {
+  "name": "election_information",
+  "protected": false
+ }
+},
+{
+ "model": "main.alephinformationpage",
+ "pk": 8,
+ "fields": {
+  "name": "how_to_plan_events",
+  "protected": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 1,
+ "fields": {
+  "date": "2020-11-05",
+  "term": "2020w",
+  "active": false,
+  "current": "Fake Role 2",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 2,
+ "fields": {
+  "date": "2020-11-20",
+  "term": "2020w",
+  "active": false,
+  "current": "test 2 other",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 3,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "Boss",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 4,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "gadol",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 5,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "Snackmaster",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 6,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "gadol",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 7,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "Aleph Burritto",
+  "voting": false
+ }
+},
+{
+ "model": "main.election",
+ "pk": 8,
+ "fields": {
+  "date": "2020-12-06",
+  "term": "2020w",
+  "active": false,
+  "current": "Aleph Moreh",
+  "voting": false
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 1,
+ "fields": {
+  "name": "index",
+  "description": "Serves as the front page of the website",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "{% load static %}\r\n<img id=\"pagephoto\" src=\"{% static 'main/images/coverphoto.jpg' %}\">",
+  "content": "<div class=\"spotlight\" id=\"upcoming\" style=\"text-align:center;\"><h1 name=\"this_week\">This Week&#39;s Events:</h1>{% for event in this_week %} {{ event.0 }}{{ event.1 }}: {{ event.2 }}<br><br>{% endfor %}<h1 name=\"upcoming\">Upcoming Events:</h1>{% for event in upcoming %} {{ event.0 }}{{ event.1 }}: {{ event.2 }}<br><br>{% endfor %}<h1 name=\"full_calendar\">Full Calendar:</h1><iframe src=\"https://calendar.google.com/calendar/embed?src=ramon195aza%40gmail.com&ctz=America%2FLos_Angeles\" style=\"border: 0;\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe></div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 2,
+ "fields": {
+  "name": "add_image",
+  "description": "used to add images to the site",
+  "security_level": "board",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h1>Upload Image</h1>\r\n<form method='POST' action='/dashboard/add_image/' enctype=\"multipart/form-data\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h2>Image Name (leave blank to keep uploaded file's name)</h2>\r\n    {{ form.image_name }}\r\n    <h2>Image Upload (make sure to upload the highest resolution version!)</h2>\r\n    {{ form.image }}\r\n    <input type=\"submit\" value=\"Upload Image\">\r\n</form>\r\n<h2>To upload a folder of images, use the following steps:</h2>\r\n<h3>Mac/Linux:</h3>\r\n<ol>\r\n    <li>Open Terminal / Bash</li>\r\n    <li>Copy the following lines in one by one</li>\r\n</ol>\r\n<code>\r\n    cd /path/to/your/folder/<br>\r\n    scp ./* ramonaza@ramonaza.org:/ramonwebsite/main/static/main/images/ &emsp;&emsp; <p style=\"font-size:smaller;display:inline\">//you will be prompted for a password, ask an advisor or the machshev (or consult the holy editing guide)</p><br>\r\n</code>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 3,
+ "fields": {
+  "name": "advisor_page",
+  "description": "talks about Ramon's advisors",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>A word from the Advisors</h1>\r\n    <p>\r\n        An advisor\u2019s job in Ramon AZA is best defined not by what we do, but by what we don\u2019t do.\r\n        <ul>\r\n            <li>We don\u2019t plan events</li>\r\n            <li>We don\u2019t recruit</li>\r\n            <li>We don\u2019t run the chapter</li>\r\n            <li>We don\u2019t stop the teens from making mistakes (or as a past regional director said \u201cit\u2019s our job to let them skin their knees, not break their necks\u201d)</li>\r\n        </ul>\r\n        The chapter belongs to the Alephs, and we aren\u2019t Alephs.\r\n    </p>\r\n    <h4>So what do we do?</h4>\r\n    <p>\r\n        Our primary job is to ensure the health and safety of participants. In the rare occasion that somebody wants to do something that is actually dangerous, we ask them to stop. If they are planning something unreasonably risky, we help them find something equally fun that is acceptably safe.\r\n        <br><br>\r\n        Our secondary job is to interpret BBYO policy \u2013 for example: we decide how many staff they actually need for a given event based on what they have planned.\r\n        <br><br>\r\n        Our third job, and the one we probably enjoy the most and spend the most time on, is to be available for general advice. Whether it is about chapter issues or programs, school, or anything else, one of us is almost always available to chat either at an event, by phone, or online.\r\n        <br><br>\r\n        Occasionally we answer parents\u2019 questions about the chapter \u2013 though it\u2019s often difficult to convey to them how much their sons stand to gain by participating in AZA. So if you\u2019re a parent who wants to know more about that, you might want to chat with the parents of some of our alumni. We\u2019ll be glad to introduce you.\r\n        <br><br>\r\n        Ramon AZA currently has three advisors with a combined experience of over 40 years advising. Yet the chapter still has the ability to surprise us. That\u2019s ok \u2013 because every day we see Alephs surprised at what they can accomplish as well.\r\n    </p>\r\n    <h1>\r\n        Other Information\r\n    </h1>\r\n    <p>\r\n        Here's a link to the <a href=\"/files/chapter_decision_making_flowchart.pdf/\">parliamentary procedure flowchart</a> as currently practiced in the chapter.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 4,
+ "fields": {
+  "name": "aleph_gadol",
+  "description": "The Aleph Gadol's board page.",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Aleph Gadol - Nir Reiter</h1>\r\n<p>Hello Reader,</p>\r\n<p>My name is Nir Reiter, and I'm very excited to be Gadol for the 2020-2021 Winter Term. This term is going to be quite the ride considering how excited Ramon is and how much will change over the next few months.</p>\r\n<p>Here are my goals, which might seem impossible to determine considering the uncertainty, but here they are anyway:</p>\r\n<ul>\r\n<li>Encourage and keep up with board (young members especially)</li>\r\n<li>Slowly reopen the chapter, depending on the covid situation of course</li>\r\n<li>Keep the close bonds we have through hangouts outside events (both virtually and in-person when possible)</li>\r\n</ul>\r\n<p>Let's put our excitement into leadership and projects, but most importantly, let's remember we're all here to have fun with friends.</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 5,
+ "fields": {
+  "name": "aleph_gizbar",
+  "description": "the board page for the aleph gizbar. I plan to do more interactive tournaments, fundraisers and events.",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<p>The Aleph Gizbar is&nbsp;<br /><br />The Aleph Gizbar is in charge of the money of the chapter and fundraisers to raise money. The money raised would be used for chapter events (supplies, renting locations, etc) and for possible regional events we may end up planning. We keep our money in the bank and the \"giz box\" in which we temporarily store money. We also keep a checking account. <br /><br />Please contact us if you have any questions. <br /><br />We look forward to an amazing term, and we hope to do the best we can! <br /><br />Contact info: <br /><br /><br /></p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 6,
+ "fields": {
+  "name": "aleph_katav",
+  "description": "The board page for the Aleph Katavim.",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Amir Reiter and Ido Halevy</h1>\r\n<p>Hello, our names are Amir Reiter and Ido Halevy. We are the Katavim for the 2020-2021 Winter Term Board. Our job is to create a newsletter for the chapter to read on a regular basis. You can contact either one of us to submit articles, or join <strong><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf6p0Q-3CTBasNsvXxTj_kzmVzkIcu7BU9jAK9honXHGzRqeg/viewform\">Writer's Guild</a></strong>.&nbsp;</p>\r\n<p>Some of our ideas/goals for the term include:</p>\r\n<p>1. Releasing a bi-weekly newsletter every business meeting.</p>\r\n<p>2. Hosting contests.</p>\r\n<p>3. Adding relevant news to each edition of the newsletter.</p>\r\n<p>Older members may notice we are not formatting or organizing our newsletters like they have been in the past. Instead of having themes for every edition, we have individual themes for articles to allow for more flexibility in our newsletters.</p>\r\n<p>We also plan, in conjuction with the Makshev, to post a list of article themes for people in Writer's Guild to claim. This would make it easier for both us and writers to quickly and efficiently deliver a newsletter.</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 7,
+ "fields": {
+  "name": "aleph_kohen_gadol",
+  "description": "Added stuff for my board description",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Eyal Shay (Summer 2020)</h1>\r\n<p>My last name isn't Cohen :( #WorstKohenGadol ever. I like cool things like having fun and being awesome \ud83d\ude0e</p>\r\n<p>As Kohen Gadol I promise to do things at the next elections.</p>\r\n<p>Email me at eyalshay32@gmail.com</p>\r\n<h1>Yali Goldstein(Winter 2019-2020)</h1>\r\n<p>I am a nice Jewish boy who likes to mingle. I like cooking, eating, and Ramon AZA! I am enjoying my role as kohen Gadol(sick bars). I am looking forward to giving advice to people in order to enrich their lives. <br /><br />Please call or email me at: <br />(408)-718-0870 or Goldstein.yali1@gmail.com</p>\r\n<h1>Ron Barzilay (Winter 2018-2019)</h1>\r\n<p>{% load static %} <img src=\"{% static 'main/images/ron_barzilay.jpeg' %}\" /> <br />What do you call me? <br /><br /><em>A Kohen Gadol</em> <br /><br />What would you call me if there were two of me? <br /><br /><em>A Co-Kohen Gadol</em> <br /><br />What would you call me if there were two of me made out of chocolate? <br /><br /><em>A Cocoa Co-Kohen Gadol</em> <br /><br />What would you call me if there were two of me made out of chocolate, AND I was crazy? <br /><br /><em>A Kookoo Cocoa Co-Kohen Gadol</em> <br /><br />What would you call me if there were two of me made out of chocolate, I was crazy, and I REALLY liked Cocoa Puffs? <br /><br /><em>A Kookoo Cocoa Co-Kohen Gadol that&rsquo;s Kookoo for Cocoa Puffs</em> <br /><br />Now that you&rsquo;ve gotten a good idea of my qualifications, ideas, aspirations, hopes, dreams, and truly everything that makes me who I am, I invite you to contact me! I do honestly think that I&rsquo;m a fairly knowledgeable guy, especially about Ramon, so hit me up with questions, ideas, or offers to hang out. <br /><br />Also, I especially encourage you to come out to business meetings, as every meeting of the 2018-2019 Winter Term will be graced with a How-To report given by yours truly, about various AZA-related topics. <br /><br />I&rsquo;ll also share a few speeches from my term so that you can get a sense of what Summer 2018 (best term of all time) was like. I&rsquo;ll never forget my Gadol term as the one where we went backpacking for three days, changed all the names of of board positions because &ldquo;why not?&rdquo;, and played so much Super Smash Bros. <strong>So. Much. Smash Bros.</strong> <br /><br /><a href=\"https://docs.google.com/document/d/1ML9ZStnMJxq0qV8PARAyhBDfsWokt56juVQKvUvHExY/edit?usp=sharing\">Gadol Acceptance Speech</a> <br /><br /><a href=\"https://docs.google.com/document/d/13m2HKrnL8bY17pe3cO2tsxiDQCzyFGG2E4uaBHv_X4s/edit?usp=sharing\">Midstates Speech</a> <br /><br /><a href=\"https://docs.google.com/document/d/13J2MEZxH224T67JflYA-cxH4mZZrQwsRZP5PEnooXTg/edit?usp=sharing\">State of the Chapter</a> <br /><br />While I&rsquo;m at it, here are a few more of my favorite AZA speeches for your reading pleasure: <br /><br /><a href=\"https://docs.google.com/document/d/17U8uKHKQONdNlgsa68k0uz4r-AjDQOucjqVIWjhHYT8/edit?usp=sharing\">Fake It Till You Make It Report (1/18/2017)</a> <br /><br /><a href=\"https://docs.google.com/document/d/1-UV8S86mGFRlBr0f7AFrK6gptB-XlJmTb8_-yLvkLe0/edit?usp=sharing\">How to Give an AZA Report, The Report (4/5/2017)</a> <br /><br /><a href=\"https://docs.google.com/document/d/1lPMg9wQRYoAe9I565zez2RQyRpIi3lTAr7eKPKkvjFs/edit?usp=sharing\">How to Convince Anyone of Anything (Springboard Speech &ndash; 5/20/2017)</a> <br /><br /><a href=\"https://docs.google.com/document/d/13sF9TRLlOsB4YdfA8EHkhyDWeADmyFKAumKWUHXsQ-4/edit?usp=sharing\">Report without the Letter E (5/24/2017)</a> <br /><br />Alright, that&rsquo;s all for now. To anyone reading this, do anything and everything you can to be involved in this chapter; plan an event, give a report at a business meeting, take the chapter on a wild trip, or anything that your heart desires. You, and all of Ramon will gain so much. Your time is limited; make the best of it. <br /><br /><br /><br />Frat Sub, <br /><br />Ronzi</p>\r\n<h1>Amit Klein (Summer 2018)</h1>\r\n<p>&lsquo;Sup! It&rsquo;s Amit Klein! <br /><br />Actually, no, it&rsquo;s Amit Roth, the dank 2018 Summer Term Machshev who has to fill in Amit&rsquo;s board page for him. <br /><br />If you see this, that means he hasn&rsquo;t updated his page yet. <br /><br />And if this stays here the rest of the term, then oh well. <br /><br />Kind Regards, <br /><br />Amit Roth, Machshev</p>\r\n<h1>Raz Goldstein (Winter 2017-18)</h1>\r\n<p>To whom it may concern, <br /><br />As Kohen Godol of Ramon AZA #195, I played many roles and accomplished many tasks. I attended many events and continued to pour my passion into AZA. Though I gave so much to this chapter as Kohen Godol, perhaps my greatest accomplishment while holding this position was updating this board page. The updating of this board page symbolizes all the good that exists in this world. So, the next time you see me, ask me: &ldquo;Raz, what has been your most proud accomplishment during your AZA career?&rdquo; To which I will respond: &ldquo;Updating the Kohen Godol page of the website.&rdquo; <br /><br />Best Regards, <br /><br />Raz Goldstein, <br /><br />Aleph Kohen Godol of Ramon AZA&rsquo;s Winter 2017-18 Term Board</p>\r\n<h1>Oren Erlich (Summer 2017)</h1>\r\n<p>{% load static %} <img src=\"{% static 'main/images/oren_erlich.jpeg' %}\" /> <br /><img src=\"{% static 'main/images/oren_erlich_meme.jpg' %}\" /> </p>\r\n<h1>Ori Klein</h1>\r\n<p>To be updated...</p>\r\n<h1>Roee (Rule of the Iron Fist)</h1>\r\n<p>&ldquo;You know what would be really funny and cool&rdquo; <br /><br />&ldquo;Nah, what?&rdquo; <br /><br />&ldquo;If you had three positions on the website&rdquo; <br /><br />&ldquo;Yeah I guess that would be cool&hellip;&rdquo; <br /><br />(Fast-Foward couple of months) <br /><br /></p>\r\n<h4>No need to fear, Roee is here.</h4>\r\n<p>{% load static %} <img src=\"{% static 'main/images/roee.jpeg' %}\" /> <br /><br />I frequently like to wear Disney princess hats in my free time&hellip; Judge me, I don&rsquo;t care &lt;3</p>\r\n<h1>Roee filing for Rohass 2016</h1>\r\n<p>WELL HELLO THERE, LOOKS LIKE WE HAVE A NEW MEMBER TO THE K-CLUB, THE ONE AND ONLY RON HASSON. (FORGIVE ME, I LOVE CAPS LOCK) <br /><br />IF YOU REQUIRE ASSISTANCE FROM THE ALL MIGHTY HASS [AVOCADO], PLEASE REACH OUT VIA CARRIER PIGEON, AND HE SHALL RETURN TO YOU AS SOON AS POSSIBLE. <br /><br />{% load static %} <img src=\"{% static 'main/images/roee2.jpeg' %}\" /></p>\r\n<h1>Amir Mazor circa 2014</h1>\r\n<p>Hey guys! Amir here! <br /><br />Super excited for this term! I plan on helping every single member that wants my help (and even a few that don&rsquo;t). I&rsquo;m always here if you need some advice. Please email me at amirmazor195@gmail.com if you have any questions or if you want to remain anonymous. I&rsquo;ll add reports and stuff from my term here! So check out this page every few weeks and see what I added. <br /><br />12/10/14: <a href=\"https://docs.google.com/document/d/1ZsXluUwvWzygc5SLFefCWf0do4Vq7X6g3cKab5HctiQ/edit?usp=sharing\">Just Do It</a> <br /><br />Frat Sub.</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 8,
+ "fields": {
+  "name": "aleph_machshev",
+  "description": "a board page for the aleph machshev",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Aleph Machshev of the 2020 Winter Term Board: Oded Bronicki</h1>\r\n<p>Hello everyone. I am the aleph machshev for this term. What is an aleph machshev you might ask? Well the answer to that question might be something like the chapter computer, or that guy who updates the website and does other tech related things. <br /><br />If you have any questions, comments, recomendations, concerns, or dreaded bug reports, contact me at: <br /><br /><a href=\"mailto:t73523@gmail.com\">t73523@gmail.com</a> or 650-305-6701</p>\r\n<p>&nbsp;</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 9,
+ "fields": {
+  "name": "aleph_mazkir",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h3>Shalom! My name is Shai Benzion, welcome!</h3>\r\n    <p>\r\n        I am Ramon's 2019 Summer Term Mazkir. I'm the secretary of the chapter. If you need information, I can direct you to the Gadol or the Sgan. They wont tell it to me.\r\n        <br><br>\r\n        You can contact me using my phone number: (650) 279-8814\r\n        <br>\r\n        Here is my email: shaishu2006@gmail.com\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 10,
+ "fields": {
+  "name": "aleph_metaksher",
+  "description": "The board page for the Aleph Metaksher.",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Aleph Metaksher</h1>\r\n<h3>2020-2021 Winter Term</h3>\r\n<p>Hello everyone! We are Nadav Ekshtein and Shahar Ankonina, Your Metakshers for this term. We plan to send weekly emails every Monday showing all things BBYO for the week. (Parents keep your eyes peeled.) Reminders on Whatsapp on the days of events, and some (hopefully) enjoyable PITS later.<br /><br />Personal information:<br />Nadav- <a href=\"mailto:Nalakirby79@gmail.com\">Nalakirby79@gmail.com</a><br />Shahar- <a href=\"mailto:shankonina@gmail.com\">shankonina@gmail.com</a></p>\r\n<p>Or you can reach out on the Whatsapp group.</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 11,
+ "fields": {
+  "name": "aleph_moreh",
+  "description": "the board page for the aleph moreh",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Aleph Moreh - Andrew Fox</h1>\r\n<p>Hello! My name is Andrew Fox. I am Ramon's Moreh for the 2020-2021 Winter Term. The Moreh's duties include:</p>\r\n<ul>\r\n<li>Recruiting new members, educating them in Ramon and BBYO, and making sure they come back!</li>\r\n<li>Helping create bonds of brotherhood among members of the chapter</li>\r\n<li>Plan an AIT (Aleph-In-Training) to teach members about the chapter</li>\r\n<li>Plan an Inductions ceremony to official welcome members into the chapter</li>\r\n<li>Selecting and training Chapter Chairmen</li>\r\n</ul>\r\n<p>I have a few goals this term:</p>\r\n<ul>\r\n<li>Allow for class bonding so that our wonderful eight grade class can become a true class.</li>\r\n<li>bring back certain old members that drifted with the end of in person events.</li>\r\n</ul>\r\n<p><br />Overall, I want Ramon closer and Ramonians more educated in the chapter. <br /><br />Thanks, <br />Andrew Fox&nbsp;<br />Aleph Moreh, 2020-2021 Winter Term <br />Ramon AZA #195</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 12,
+ "fields": {
+  "name": "aleph_sgan",
+  "description": "THE fantastic board page of the sgan... the REAL prez of the chapter",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n<h1>Aleph Sgan - Amit Roth</h1>\r\n<p>Heya! This is Amit Roth, the Sgan (VP) of Ramon this winter and spring. I make sure events happen, including helping the real planners, working out materials needed, and whatever logisitics. I'm also old in the chapter so feel perfectly free to call or text and ask me anything.</p>\r\n<p>Hopefully this term we can go back to socially distanced events (when Santa Clara isn't purple), but online events will still be super varied and relaxed in the fun way.</p>\r\n<h4 style=\"text-align: left;\">Contact Me!</h4>\r\n<p>Phone: (408) 680-4234&nbsp;<br /><br />Email: amitgroth@gmail.com</p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 13,
+ "fields": {
+  "name": "aleph_shaliach",
+  "description": "The Aleph Shaliach's board page.",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Aleph Shaliach</h1>\r\n    <p>Hey! We are Tamir and Amit, the shlichim of this term. We do the judaism and charity stuff for the chapter. Look out for monthly Shabbats, some community service events, and our overnight for cool stuff.\u00a0</p>\r\n    <br>\r\n    <p>Contact us at: <br>\r\n      Amit Roth: amitgroth@gmail.com (408) 680-4234 <br>\r\n      Tamir Eliaz: tamireliaz14@gmail.com (669) 237-5471\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 14,
+ "fields": {
+  "name": "aleph_shotare",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <p>\r\n        Hey guys! I am Shahar Ankonina and I take pictures of events and post them on the ramon aza members page. I love photography!!!\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 15,
+ "fields": {
+  "name": "aza_story",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>The AZA Story</h1>\r\n    <h3>As written in the 6th edition of the Traditions Packet</h3>\r\n    <p>\r\n        In 1923 there was a group of 15 Jewish teens who wanted to join their school\u2019s fraternity, the Alpha Zeta Alpha. The fraternity would not let them join because they were Jewish. They decided that they would protest the Greek system and start a Jewish fraternity using Hebrew letters. From this point on, they would be the Aleph Zadik Aleph. At first, the letters had no meaning. Two years later, when the Aleph Zadik Aleph for Young Men was adopted by B\u2019nai B\u2019rith, the name was interpreted to represent the motto of the sponsoring organization. The first Aleph was to stand for Ahavah, brotherly love; Zadik, T\u2019zedakah, benevolence; the second Aleph, Achdoos, harmony. This first group would be known as Mother Chapter #1. Abe Baboir was elected as the Aleph Zadik Aleph\u2019s first president and Nathan Mnookin would be the fraternity\u2019s first advisor.\r\n        <br><br>\r\n        A few months after the fraternity was started, Mnooking moved to Kansas City where he started another chapter of this fraternity. The men of Mother Chapter #1 asked Sam Beber to be their next advisor. Beber had many dreams for the fraternity. He saw the fraternity spreading throughout the U.S. and the world. His idea was to have an unmistakably Jewish fraternity. Sam Beber is now regarded as the founder of the Aleph Zadik Aleph.\r\n        <br><br>\r\n        On May 3, 1924, at a meeting at Harry Lapidus\u2019s house, a constitution was drawn up and the Aleph Zadik Aleph was officially established. At the same meeting, the Supreme Advisory Council was started as the policy-making body of the fraternity.\r\n        <br><br>\r\n        During July 4-6 1924, the first National Convention of the Aleph Zadik Aleph was held at the JCC in Omaha, Nebraska. At this time, there were four chapters: Mother Chapter AZA #1 in Omaha, Nebraska: AZA #2 in Kansas City, Kansas; AZA #3 in Lincoln, Nebraska; and AZA #4 in Des Moines, Iowa. Two thirds of the membership (94 people) came for a weekend of brotherhood and friendship. There was a deadlock for the Grand Aleph Godol race between Charles Shane and William Horowitz. Eventually, the decision was turned over to the Supreme Advisory Council and, on the fact that Shane was 20 and Horowitz was only 17, Shane became the first Grand Aleph Godol and Horowitz the first Grand Aleph S\u2019gan.\r\n        <br><br>\r\n        At the 1925 B\u2019nai B\u2019rith International Convention, Henry Monsky presented a petition to get the Aleph Zadik Aleph adopted by B\u2019nai B\u2019rith. Of course the petition was accepted, and the Aleph Zadik Aleph was now the junior order of B\u2019nai B\u2019rith.\r\n        <br><br>\r\n        In 1926, at the second International Convention, Philip Klutznick was elected as the second Grand Aleph Godol. After his term, Klutznick became the International Director of AZA; he would later go on to serve as President of B\u2019nai B\u2019rith, US Ambassador to the UN, Chairman of the World Jewish Congress, and Secretary of Commerce under the Carter administration. Also in 1925, AZA went international, establishing the first Canadian chapter in Calgary, Alberta, and the Shofar, the official AZA newspaper, was created. In 1928, Dr. Boris D. Bogen presented his Five-Fold-and-Full plan, which developed the five folds of AZA: athletic, social, educational, community service/social action, and Judaic programming. The five folds have been used ever since as categories under which events may fall.\r\n        <br><br>\r\n        Despite the crippling Greate Depression, the AZA managed to continue to grow. After 10 years (in 1933), AZA had 100 chapters in North America. However, one of the most tragic events in the history of the order happened in 1932: Harry Lapidus, former treasurer of the Supreme Advisory Council, was assassinated. The Lapidus Memorial Forest in Palestine was established in his memory. In 1936, the first European chapter was created in Sofia, Bulgaria. It was called Karmen Chapter. In 1938, the first Middle Eastern chapter opened in Tel Aviv.\r\n        <br><br>\r\n        In the forties, AZA mobilized for war. Massive war support efforts of dollars and man-hours were contributed by AZA. Over 10,000 members and alumni served in the Canadian and US armed forces, and as many as 250 were reported killed. As a result, the minimum age of membership was lowered from 16 to 14. In 1944, B\u2019nai B\u2019rith Girls was officially recognized and BBYO was born. On November 10, 1944, the Supreme Advisory Council was replaced by the BBYO Commission, with Henry Monsky as its first chairman.\r\n        <br><br>\r\n        On the Silver Anniversary of AZA (1949), the order had about 420 chapters worldwide. The fifties held a time of great prosperity for BBYO just as it did for the rest of the US. The fraternity focused more and more on the leadership aspect, establishing International Kallah, ILTC, and ISI programs.\r\n        <br><br>\r\n        In 2002, BBYO Inc. split from B\u2019nai B\u2019rith and became an independent corporation.\r\n        <br><br>\r\n        When the Golden Anniversary of AZA took place in 1974, BBYO was at its height, with over 40,000 members worldwide. New programs, such as CLTC, had been created, and new regions of the world had enjoyed their first taste of BBYO. Noar Lenoar, the counterpart of BBYO in Israel, had been established.\r\n        <br><br>\r\n        BBYO\u2019s membership declined following its height in the 70\u2019s. Membership decreased to just over 15,000 in 2005. Although membership has decreased, BBYO is certainly not down-and-out. The many teens that now belong to the order experience the same feeling of brotherhood that those 15 boys felt 95 years ago when AZA was born.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 16,
+ "fields": {
+  "name": "bbyo",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "{% load static %}\r\n<img id=\"pagephoto\" src=\"{% static 'main/images/bbyo.jpg' %}\">",
+  "content": "<div class=\"spotlight\">\r\n    <h1 name=\"bbyo\">About BBYO</h1>\r\n    <p>\r\n        B\u2019nai B\u2019rith Youth Organization (BBYO), in the most basic sense, is a teen-lead Jewish youth organization split into two sectors, Aleph Zadik Aleph (AZA) is the division for boys, and B\u2019nai B\u2019rith Girls (BBG) is the sector for girls.\r\n    </p>\r\n    <h2 name=\"history\">BBYO's History</h2>\r\n    <p>\r\n        Throughout BBYO\u2019s 90 year history, the organization has brought leadership training, community service opportunities, Jewish education, a connection to Israel, and positive identity to thousands of Jewish youth in North American and beyond. Although the structure may differ depending upon the needs and design of the Jewish population, the basis is the same; BBYO provides fun and meaningful Jewish experiences for Jewish teens everywhere.\r\n        <br><br>\r\n        BBYO has always been the world\u2019s leading pluralistic Jewish youth movement. As the first and the most dynamically inclusive organization of its kind, every Jewish teen, of all backgrounds, anywhere in the world, will find an experience that provides the foundation for a meaningful Jewish life.\r\n    </p>\r\n    <h2 name=\"vision\">BBYO's Vision</h2>\r\n    <p>\r\n        BBYO\u2019s pluralistic movement of Jewish teens, alumni, parents, volunteers and philanthropists will serve as the Jewish community\u2019s most valuable platform for delivering to the post- Bar/Bat Mitzvah audience fun, meaningful and affordable experiences that inspire a lasting connection to the Jewish people.\r\n    </p>\r\n    <h2 name=\"values\">BBYO's Core Values</h2>\r\n    <p>\r\n        <ul>\r\n            <li>BBYO offers safe and welcoming opportunities for learning and growth to all Jewish teens regardless of background, denominational affiliation, disability, gender, sexual orientation and socio-economic status.</li>\r\n            <li>BBYO encourages Jewish teens to find meaning in Judaism and to develop their own Jewish identities. Committed to a pluralistic experience, BBYO attempts to accommodate and provide a comfortable environment across the halachic (Jewish law) spectrum.</li>\r\n            <li>BBYO\u2019s international leadership model, AZA and BBG, prides itself on fun and meaningful teen-led programming, its responsibility to the global Jewish community, an unwavering commitment to the State of Israel, and its dedication to tikkun olam \u2013 repairing the world.</li>\r\n            <li>BBYO\u2019s stakeholders define the organization and are the stewards of its brand. They must act in a way that represents and celebrates BBYO\u2019s rich history and tradition.</li>\r\n        </ul>\r\n    </p>\r\n    <h2 name=\"why_join\">Why Should Someone Join BBYO?</h2>\r\n    <p>\r\n        BBYO is a place where you can do anything. It is completely teen-led, so you can follow whatever passions you desire with the support of thousands of members by your side. Have a dream? BBYO can help you accomplish it. Beyond this, the International Order is a fantastic place to meet people and to create friendships that will last a lifetime. BBYO is also a place to find and further connect with your Jewish identity, whatever your believe in. BBYO truly is, the experience of a lifetime.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 17,
+ "fields": {
+  "name": "cheers",
+  "description": "Where all current chapter cheers that can be written down are stored",
+  "security_level": "member",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Chapter Cheers</h1>\r\n    <h2 name=\"up_you_men\">Up You Men</h2>\r\n    <p>\r\n        Up, you men,<br>\r\n        And sing to AZA<br>\r\n        Time will pass,<br>\r\n        And we'll be on our way.<br>\r\n        As the years go by,<br>\r\n        There will be<br>\r\n        Happiest of memories. (Ra Ra Ra)<br>\r\n        <br><br>\r\n        Stand, and then,<br>\r\n        We'll sing this song again,<br>\r\n        All you loyal men.<br>\r\n        Sing the praises of<br>\r\n        our Order,<br>\r\n        Sing up, you men of AZA.<br>\r\n        <br><br>\r\n        Brothers we'll be,<br>\r\n        As we share our cares each day.<br>\r\n        Happy and free,<br>\r\n        Though the years go on their way.<br>\r\n        Starting anew,<br>\r\n        Face to Face with destiny.<br>\r\n        Hearts beating true,<br>\r\n        For the Friends and loves to be.<br>\r\n        <br><br>\r\n        So, up, you men,<br>\r\n        And sing to AZA<br>\r\n        Time will pass,<br>\r\n        And we'll be on our way.<br>\r\n        <br><br>\r\n        As the years go by,<br>\r\n        There will be<br>\r\n        Happiest of memories. (Ra Ra Ra)<br>\r\n        Stand, and then,<br>\r\n        We'll sing this song again,<br>\r\n        All you loyal men.<br>\r\n        Sing the praises of<br>\r\n        our Order,<br>\r\n        Sing up, you men of AZA.<br>\r\n    </p>\r\n    <h2 name=\"for_tomorrow_and_today\">For Tomorrow and Today</h2>\r\n    <p>\r\n        For tomorrow and today,<br>\r\n        We believe in the AZA,<br>\r\n        And with voices loud,<br>\r\n        We say we're proud,<br>\r\n        of the AZ-Aleph Zadik Aleph.<br>\r\n        We all know that Jewish life,<br>\r\n        Had its share of trouble and strife.<br>\r\n        So we'll never cease,<br>\r\n        To work for peace,<br>\r\n        For the AZ-Aleph Zadik Aleph.<br>\r\n        <br><br>\r\n        Brotherly Love and Charity,<br>\r\n        We cherish and promote,<br>\r\n        Harmony and Democracy.<br>\r\n        To these our lives we'll devote.<br>\r\n        B'nai B'rith we'll never stray.<br>\r\n        Jewish youth is on its way.<br>\r\n        And it all began,<br>\r\n        With the Beber plan,<br>\r\n        For the AZ-Aleph Zadik Aleph.<br>\r\n    </p>\r\n    <h2 name=\"world_of_aza\">World of AZA</h2>\r\n    <p>\r\n        In the time<br>\r\n        Of AZA<br>\r\n        There lived a Jewish boy<br>\r\n        Named Mordechai<br>\r\n        He was young<br>\r\n        And insecure<br>\r\n        He spent his Saturdays<br>\r\n        Killing flies<br>\r\n        <br><br>\r\n        But there was<br>\r\n        This guy at school<br>\r\n        Who treated Mordechai<br>\r\n        With sympathy<br>\r\n        And he told<br>\r\n        Him of a place<br>\r\n        He could be anything<br>\r\n        He wished to be<br>\r\n        <br><br>\r\n        We all live in the world of AZA, 'A'!<br>\r\n        The world of AZA, 'Z'!<br>\r\n        The world of AZA, 'A'!<br>\r\n        (repeat x2)<br>\r\n        <br><br>\r\n        At his first<br>\r\n        Event that night<br>\r\n        He saw fraternity<br>\r\n        He saw the light<br>\r\n        He mailed in<br>\r\n        His check the next day<br>\r\n        With the power,<br>\r\n        Of USPS!<br>\r\n        Badadadabopbadopbadopbadadada<br>\r\n        <br><br>\r\n        We all live in the world of AZA, 'A'!<br>\r\n        The world of AZA, 'Z'!<br>\r\n        The world of AZA, 'A'!<br>\r\n        (repeat x2)<br>\r\n        <br><br>\r\n        Mordechai<br>\r\n        is now a man<br>\r\n        And his life<br>\r\n        No longer bland<br>\r\n        And he lives<br>\r\n        His every day<br>\r\n        With the power<br>\r\n        Of AZA<br>\r\n        <br><br>\r\n        We all live in the world of AZA, 'A'!<br>\r\n        The world of AZA, 'Z'!<br>\r\n        The world of AZA, 'A'!<br>\r\n    </p>\r\n    <h2 name=\"aza_all_the_way\">AZA all the Way</h2>\r\n    <p>\r\n        Aleph brothers of the order<br>\r\n        We're all Jewish boys<br>\r\n        Some young and some older<br>\r\n        Life is great here<br>\r\n        Greater than NIFTY<br>\r\n        We support each other<br>\r\n        We're a fraternity<br>\r\n        <br><br>\r\n        AZA all the way<br>\r\n        For tomorrow and today<br>\r\n        For the chapter, and what we're after<br>\r\n        AZA all the way<br>\r\n        <br><br>\r\n        All my memories gather round her<br>\r\n        She's in BBG and the one I'm after<br>\r\n        Maybe next year we'll hook up at JLC<br>\r\n        So what if you've seen her tits<br>\r\n        She's the one for me<br>\r\n        <br><br>\r\n        AZA all the way<br>\r\n        For tomorrow and today<br>\r\n        For the chapter, and what we're after<br>\r\n        AZA all the way<br>\r\n        <br><br>\r\n        I hear the prayers in the evening at havdallah<br>\r\n        Traditions remind me that I'm in AZA<br>\r\n        And as we sing Airforce Ranger our bonds grow stronger each and every single day<br>\r\n        <br><br>\r\n        And we saaaaaaaay<br>\r\n        AZA<br>\r\n        All the way<br>\r\n        For tomooorrrow and todaaaaaaaaaaaay<br>\r\n        ONE<br>\r\n        TWO<br>\r\n        THREE<br>\r\n        <br><br>\r\n        (run around linking elbows with others)<br>\r\n        <br><br>\r\n        For the chapter and what we're after<br>\r\n        AZA all the way<br>\r\n        <br><br>\r\n        AZA all the way<br>\r\n        For tomorrow and today<br>\r\n        For the chapter's and what we're after<br>\r\n        AZA all the way<br>\r\n        repeat 2-5x<br>\r\n    </p>\r\n    <h2 name=\"proud_to_be_an_aleph\">Proud to be an Aleph</h2>\r\n    <p>\r\n        If tomorrow I'd be facing death<br>\r\n        And saying goodbye to life<br>\r\n        I'd be looking at the israelis in the South bay<br>\r\n        And the East bay growing hyphe (like hyphy)<br>\r\n        I'd be looking back<br>\r\n        At my time in AZA<br>\r\n        And the seven cardinal principles<br>\r\n        That I live by everyday<br>\r\n        <br><br>\r\n        So I'm proud to be an Aleph<br>\r\n        Where I have fraternity<br>\r\n        And I won't forget the memories<br>\r\n        And the sexy BBG's<br>\r\n        So I proudly stand up<br>\r\n        With my fellow Jews<br>\r\n        during havdallah on Saturdays<br>\r\n        Cuz I love my brother Alephs<br>\r\n        And I love AZA<br>\r\n        <br><br>\r\n        From MoAd to Saratoga<br>\r\n        To Sunnyvale's JSZ<br>\r\n        From Peninsula AZA<br>\r\n        And Machar and DBG<br>\r\n        From San Fran down to Ramon (that's us!)<br>\r\n        And SiWi to LHA (and Chai)<br>\r\n        We're all connected by Cal-Train and Bart<br>\r\n        And by being from the Bay<br>\r\n        <br><br>\r\n        So I'm proud to be an Aleph<br>\r\n        Where I have fraternity<br>\r\n        And I won't forget the memories<br>\r\n        And the sexy BBG's<br>\r\n        So I proudly stand up<br>\r\n        With my fellow Jews<br>\r\n        during havdallah on Saturdays<br>\r\n        Cuz I love my brother Alephs<br>\r\n        And I love AZA<br>\r\n        <br><br>\r\n        So I'm proud to be in AZA<br>\r\n        Where everyone accepts me<br>\r\n        And I won't forget the cool events<br>\r\n        And the sexy BBG's<br>\r\n        So I raise my hand up<br>\r\n        And teach prospectives<br>\r\n        The handshake of AZA<br>\r\n        Cuz I love my brother Alephs<br>\r\n        And I love AZA<br>\r\n    </p>\r\n    <h2 name=\"never_too_many\">Never too Many</h2>\r\n    <p>\r\n        Never too many<br>\r\n        Never too strong<br>\r\n        Always AZA<br>\r\n    </p>\r\n    <h2 name=\"gentlemen\">Gentlemen</h2>\r\n    <p>\r\n        Gentlemen<br>\r\n        Put your hands together<br>\r\n        <br><br>\r\n        I said Gentlemen<br>\r\n        Put your hands together<br>\r\n        <br><br>\r\n        Ready Go<br>\r\n        Ready Go<br>\r\n        <br><br>\r\n        Gentlemen, Who are we?<br>\r\n        <br><br>\r\n        We are, Ramon one! (alternatively: We Are, AZA!)<br>\r\n        (repeat)<br>\r\n    </p>\r\n    <h2 name=\"el_hamaayan\">El Hama'ayan</h2>\r\n    <p>\r\n        El hama'ayan<br>\r\n        ba g'di, ba g'di katan<br>\r\n        el hama'ayan ba g'di<br>\r\n        (1,2,3,4,5,6,7)<br>\r\n        (Alternatively you can say the seven cardinal principles)<br>\r\n        katan<br>\r\n        ba g'di<br>\r\n        (1,2,3,4,5,6,7)<br>\r\n        (Alternatively you can say the seven cardinal principles)<br>\r\n        One of these few paragraphs follow after that intro:<br>\r\n        <br><br>\r\n        Once there was a wizard<br>\r\n        Who went to Africa<br>\r\n        To study the Megillah<br>\r\n        Megillah<br>\r\n        Megillah Gorilla<br>\r\n        Megillah Gorilla Gorilla Megillah<br>\r\n        Megillah Gorilla Gorrila Megillah Megillah Gorilla Gorilla Megillah<br>\r\n        <br><br>\r\n        Once there was an Aleph<br>\r\n        Who went to India<br>\r\n        To study the Mishna<br>\r\n        Mishna<br>\r\n        Mishna Krishna<br>\r\n        Mishna Krishna Krishna Mishna<br>\r\n        Mishna Krishna Krishna Mishna Mishna Krishna Krishna Mishna<br>\r\n        <br><br>\r\n        Once there was a wizard<br>\r\n        Who went to China<br>\r\n        To study the Torah<br>\r\n        Torah<br>\r\n        Torah Horah<br>\r\n        Torah Horah Horah Torah<br>\r\n        Torah Horah Horah Torah Torah Horah Horah Torah<br>\r\n    </p>\r\n    <h2 name=\"chapter_cheer\">Chapter Cheer</h2>\r\n    <p>\r\n        The chapter cheer has only been written down in all entirety twice, both times by the founding fathers of then Dr. Seuss AZA #195, and will continue to be passed down orally at AITs, from chapter member to chapter member.\r\n    </p>\r\n    <h2 name=\"cheers_from_a_better_age\">Cheers from a Better Age</h2>\r\n    <p>\r\n        <a href=\"/sacred_chants/\">...</a>\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 18,
+ "fields": {
+  "name": "chester",
+  "description": "the page of our lord, Chester",
+  "security_level": "member",
+  "css": "img:hover {\r\n    animation: shake 0.5s;\r\n    animation-iteration-count: infinite;\r\n}\r\n\r\n@keyframes shake {\r\n    0% { transform: translate(1px, 1px) rotate(0deg); }\r\n    10% { transform: translate(-1px, -2px) rotate(-1deg); }\r\n    20% { transform: translate(-3px, 0px) rotate(1deg); }\r\n    30% { transform: translate(3px, 2px) rotate(0deg); }\r\n    40% { transform: translate(1px, -1px) rotate(1deg); }\r\n    50% { transform: translate(-1px, 2px) rotate(-1deg); }\r\n    60% { transform: translate(-3px, 1px) rotate(0deg); }\r\n    70% { transform: translate(3px, 1px) rotate(-1deg); }\r\n    80% { transform: translate(-1px, -1px) rotate(1deg); }\r\n    90% { transform: translate(1px, 2px) rotate(0deg); }\r\n    100% { transform: translate(1px, -2px) rotate(-1deg); }\r\n}",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\" style=\"text-align:center\">\r\n    <h1>\r\n        Chester Peabody Herbert\r\n    </h1>\r\n    <p>\r\n        {% load static %}\r\n        <img src=\"{% static 'main/images/chester1.jpeg' %}\">\r\n        <br>\r\n        <img src=\"{% static 'main/images/chester2.jpeg' %}\">\r\n        <br>\r\n        <img src=\"{% static 'main/images/chester3.jpeg' %}\">\r\n        <br>\r\n        <img src=\"{% static 'main/images/chester4.jpeg' %}\">\r\n        <br>\r\n        Who is this handsome goat-main you might ask?\r\n        <br><br>\r\n        Among other things, Chester is our chapter mascot. This extremely attractive goat man is like Jesus to us, and we get very annoyed when immature people like JSZ decide that they can just steal our holy goat head from us. If you see them, make sure to ask for Chester back!\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 19,
+ "fields": {
+  "name": "create_page",
+  "description": "used to add a page to the database",
+  "security_level": "board",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h1>Create Page</h1>\r\n<form method=\"POST\" action=\"/dashboard/create_page/\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h2>Page Name</h2>\r\n    {{ form.name }}\r\n    <h2>page HTML content (will be in a spotlight) <a href=\"https://www.w3schools.com/html/default.asp\">basic html tutorial</a>, <a href=\"https://docs.djangoproject.com/en/3.0/ref/templates/builtins/\">Django template language reference</a></h2>\r\n    {{ form.page_content }}\r\n    <h2>Page link location</h2>\r\n    {{ form.page_link_location }}\r\n    <input type=\"submit\" value=\"Create Page\">\r\n</form>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 20,
+ "fields": {
+  "name": "edit_page",
+  "description": "A GUI for editing pages",
+  "security_level": "board",
+  "css": "sup {\r\n  color: red;\r\n}\r\n\r\n.inline {\r\n    display: inline;\r\n    line-height: 2rem;\r\n}\r\n\r\n.spotlight {\r\n  margin-bottom: 1rem;\r\n}\r\n\r\n.spotlight:not(.guide) h4 {\r\n  text-align: left;\r\n}\r\n\r\npre {\r\n  overflow: scroll;\r\n}",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h1>Edit Page: {{ page_name }}{% if possibility is not None %}: {{ possibility }}{% endif %}</h1>\r\n<div class=\"spotlight\" style=\"float:left;width:50%\">\r\n  <form method=\"POST\" action=\"/dashboard/pages/{{ page_name}}/edit/\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h4 class=\"inline\">Name<sup>*</sup></h4> {{ form.name }} <br>\r\n    <h4 class=\"inline\">Description<sup>*</sup></h4> {{ form.description }} <br>\r\n    <h4 class=\"inline\">Security Level</h4> {{ form.security_level }} <br>\r\n    <h4>CSS</h4>\r\n    {{ form.css }}\r\n    <h4>Sidebar</h4>\r\n    {{ form.sidebar }}\r\n    <h4>Pagephoto</h4>\r\n    {{ form.pagephoto }}\r\n    <h4>Content<sup>*</sup></h4>\r\n    {{ form.content }}\r\n    <h4>Footer</h4>\r\n    {{ form.footer }}\r\n    <h4>Scripts</h4>\r\n    {{ form.scripts }}\r\n    <br>\r\n    <input type=\"submit\" value=\"Edit Page\">\r\n  </form>\r\n</div>\r\n<div class=\"spotlight guide\" style=\"width:40%;float:right;\">\r\n  <h2>Guide</h2>\r\n  <h3>Fields:</h4>\r\n  <ul style=\"line-height:2rem;\">\r\n    <li><b>Name</b>: the name of the page, by default stored lowercase and with underscores connecting letters.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>sample_page</code></li>\r\n    </ul> <br>\r\n    <li><b>Description</b>: a brief description of the contents of the page and its purpose.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>used as an example within edit_page and add_page</code></li>\r\n    </ul> <br>\r\n    <li><b>Security Level</b>: indicates what the minimum access level to view the page is, the values are blank (<green>\"\"</green>) for everyone, <green>\"member\"</green> for members of the chapter, <green>\"board\"</green> for board members, and <green>\"advisor\"</green> for only advisors. There is also the special <green>\"member+password\"</green> access modifier for unique pages such as the cheers from a better age.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>member</code></li>\r\n    </ul> <br>\r\n    <li><b>CSS</b>: holds the page specific CSS (Cascading Style Sheets) rules for the page. the format is the selector, such as h4 (to select all &lt;<blue>h4</blue>> elements), .spotlight (to select all elements with <blue>class=<green>\"spotlight\"</green></blue>), or #header (to select the unique element with <blue>id=<green>\"header\"</green></blue>) followed by curly braces ({}), \r\n with specific rules inside, such as <red>font-weight</red>: bold, always followed by a semicolon. for a more complete introduction to CSS, visit this <a href=\"https://www.w3schools.com/css/\">tutorial</a>.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n.spotlight {\r\n  <red>background-color</red>: darkgrey; <grey>/*makes spotlights become dark grey instead of grey (#f3f3f3)*/</grey>\r\n}\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Sidebar</b>: allows you to forcefully remove a board member or advisors side panel for the page, unless it is empty, the existing side panel will be overwritten.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>div</blue>>&lt;<blue>/div</blue>> <grey>&lt;!--makes side bar disappear--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Pagephoto</b>: stores an html image reference (&lt;<blue>img src=<green>\"<orange>&#123;&#123; file_path &#125;&#125;</orange>\"</green> /</blue>>) which is at the top of the page, make sure to only use images with a high resolution.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>img src=<green>\"https://www.w3schools.com/images/lamp.jpg\"</green></blue>> <grey>&lt;!--displays the image lamp.jpg from w3schools.com--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Content</b>: stores the actual html content of the page, it is often inscribed within a spotlight div (&lt;<blue>div class=<green>\"spotlight\"</green></blue>>  &lt;<blue>/div</blue>>) which creates the grey background and rounded corners that most pages have. For a more in depth guide into how to use html you can use this <a href=\"https://www.w3schools.com/html/\">tutorial</a> in conjunction with the website editing guide, which contains information on how to use the Django specific templating language (DTL).</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n<orange>&#123;&#123; test_var }}</orange> <grey>&lt;!-- displays the value of the variable test_var --></grey>\r\n<orange>&#123;% if test_var == \"potato\" %}</orange> <grey>&lt;!-- an if statement that checks if test_var equals the string potato, if it does, then the contents of the if statement will be displayed--></grey>\r\n  &lt;<blue>p</blue>>test_var equals potato!&lt;<blue>/p</blue>>\r\n<orange>&#123;% endif %}</orange>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Footer</b>: allows you to override the footer at the bottom of the page, unless it is empty, the default will be overwritten for the page.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>div</blue>>&lt;<blue>/div</blue>> <grey>&lt;!--makes the footer disappear--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Scripts</b>: stores page specific JavaScript code, things like JQuery can be linked here (&lt;<blue>script src=<green>\"<orange>&#123;&#123; path to the file &#125;&#125;</orange>\"</green> type=<green>\"text/js\"</gree></blue>>&lt;<blue>/script</blue>>) and code can be written within script tags (&lt;<blue>script type=<green>\"text/js\"</green></blue>>  &lt;<blue>/script</blue>>).</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>script src=<green>\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"</green></blue>>&lt;<blue>/script</blue>> <grey>&lt;!-- imports JQuery from the Google CDN for use in this page --></grey>\r\n&lt;<blue>script</blue>> <grey>//you can write JavaScript in here</grey>\r\n  <orange>$</orange>(document).ready(() <orange>-></orange> {\r\n    alert(<green>\"document ready\"</green>) <grey>//creates an alert popup that says document ready</grey>\r\n  });\r\n&lt;<blue>/script</blue>>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n  </ul>\r\n</div>\r\n</div>",
+  "footer": "<div></div>",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 21,
+ "fields": {
+  "name": "editing_guide",
+  "description": "a guide for editing the website",
+  "security_level": "board",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Website Editing Guide</h1>\r\n    <h2 name=\"djangoadmin\">/djangoadmin/</h2>\r\n    <p>\r\n        The djangoadmin pages are generated by <a href=\"https://djangoproject.com\">django</a>, the framework that this website uses.\r\n        <br><br>\r\n        The login for all of the pages with the /djangoadmin/ url segment is <i>aleph_machshev</i>, with the standard board position password.\r\n        <br><br>\r\n        The djangoadmin pages are the most efficient way to manually edit the database (dont ever touch the actual db file unless you <strong>really</strong> know what you are doing, and have backed it up).\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 22,
+ "fields": {
+  "name": "election_information",
+  "description": "Holds information about elections",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1 name=\"election_information\">Election Information</h1>\r\n    <h2 style=\"color:red\">Please check the <a href=\"/member_list/\">official member list</a> to make sure that you are eligible to vote!</h2>\r\n    <p>\r\n        Every six months the chapter holds an election ceremony to decide who is going to take on the responsibilities of each board position next term. Refer to here to see what board positions there are and their individual responsibilities. Getting elected to a certain position means the chapter trusts whoever got elected to not only fulfill their responsibility, but to do the best they can with that position.\r\n    </p>\r\n    <h2>Why you should go:</h2>\r\n    <p>\r\n        Chapter elections, unlike country elections, have less people voting, and more competent candidates. Your vote really does count, as many board positions have been decided over one vote. That being said, it\u2019s your vote going to decide who is next going to lead the chapter and have it accomplish bigger and better things. Going also shows that you support your brother Alephs in their wins \u2013 and their losses.\r\n        <br><br>\r\n        To qualify to vote/run you need to be signed up on b-linked and fully paid for your membership. If you\u2019re an eighth grader, you need to promise to pay as soon as you can and have an account on b-linked.\r\n    </p>\r\n    <h2>Fraternity:</h2>\r\n    <p>Elections are often quoted as being the \u201cmost unfraternal event of each term\u201d. That is because it is a time where the chapter comes together and chooses one Aleph over another. This is almost always avoided, but elections is the time where it\u2019s unavoidable. In order to minimize the unfraternalness before and during elections, many things occur:</p>\r\n    <ul style=\"list-style-type:none\">\r\n        <li>\r\n            <h2>Before elections:</h2>\r\n            <ul style=\"list-style-type:none\">\r\n                <li>\r\n                    If you want to run for something, do not, I repeat, DO NOT, tell anyone in the chapter besides for the Gadol, past gadol (Kohen Gadol or previous), or an advisor of our chapter (Check the board pages to see who those people are. Telling someone else about what you are running for outside that list of people is considered politicking, and depending on the severity, will get you to be not allowed to run for that position.\r\n                    <br><br>\r\n                    Do not try to figure out with your brother Alephs who is going to run for what. Doing that has the chances of spreading wrong information, which may cause people to feel pressured to run for something they don\u2019t want to, or for someone to stop running for something they do want to.\r\n                    <br><br>\r\n                    If you need to use an example when talking about elections, always use \u201cAleph X\u201d in place of where you would normally put a person. Example: \u201cLet\u2019s say Aleph X wants to run for moreh\u2026.\u201d\r\n                </li>\r\n            </ul>\r\n        </li>\r\n        <li>\r\n            <h2>During Elections:</h2>\r\n            <ul style=\"list-style-type:none\">\r\n                <li>\r\n                    Don\u2019t talk to people who just ran about why they won or why they lost. The only things that should be said to the running candidates is something positive that either congratulates or cheers them up.\r\n                    <br><br>\r\n                    While running for a position, every person gets the same amount of time to speak. That way the Alephs can hear each person equally and will judge solely on who they think deserves the position. The time abstract example apa allotted for speeches depends on the position. People running for Gadol get 5 minutes, Sgan and Moreh 4 minutes, and every other position 3 minutes.\r\n                </li>\r\n            </ul>\r\n        </li>\r\n    </ul>\r\n    <h2>Running for a position:</h2>\r\n    <ul style=\"list-style-type:none\">\r\n        <li>\r\n            <h2>Choosing which position:</h2>\r\n            <ul style=\"list-style-type:none\">\r\n                <li>\r\n                    In order to run for a position, you need to first figure out what position you want. While technically, everyone is allowed to run for anything (except for Kohen Gadol), it\u2019s generally advised for younger members to stay away from the more taxing positions (ex. Gadol, Sgan), and to run for things that doesn\u2019t require much experience to fulfill, but has a lot of room for people to do things beyond the position itself (ex. Historian Shotare, Katav, Machshev).\r\n                    <br><br>\r\n                    If you can\u2019t figure out what position to run for, but still want to be on board, talk to one of the advisors. They can help guide you into a position that you\u2019ll be able to do.\r\n                    <br><br>\r\n                    Let\u2019s say you want to run for a position, but think that the responsibility will be too much for you alone to handle. Something you can do is run with a counterpart (abbreviated as Co). Doing that will have the position be held in both of your names, and have the responsibility go to both of you.\r\n                    <br><br>\r\n                    In order to get a Co, you need to talk to the gadol, any previous gadol, or an advisor. They\u2019ll be able to set you up with your person of preference (assuming they also want to run for that), or someone else who also wants to run for the same position. Do NOT talk to the person you want to be in a Co with directly, as that will count as politicking. Once you are given a Co by one of the aforementioned people, you can freely discuss with your Co about speech topics and plans for that board position.\r\n                    <br><br>\r\n                    Once you figured out what position you want to run for, although not necessary, it is highly advised to tell an advisor or the godol about it.\r\n                </li>\r\n            </ul>\r\n        </li>\r\n        <li>\r\n            <h2>Preparing for Elections:</h2>\r\n            <ul style=\"list-style-type:none\">\r\n                <li>\r\n                    To run, it is best to write out a speech highlighting your qualifications for the position, and what you will do if elected to that position. The speech should cover what project(s) you want to execute, how you will achieve that, and any other things that you feel are important for the chapter to know when it comes to voting for you in that position. Many speeches incorporate an idea/life lesson as an overall theme. How you write it is completely up to you, but be mindful of your positions time limit on speeches (5 min for Gadol, 4 min for Sgan and Moreh, 3 min for everything else).\r\n                    <br><br>\r\n                    It is also advised to prepare speeches for positions lower than yours to \u201crun down.\u201d  Do this so you can have a chance to still have a position if you don\u2019t get the one you wanted.\r\n                </li>\r\n            </ul>\r\n        </li>\r\n    </ul>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 24,
+ "fields": {
+  "name": "gallery",
+  "description": "a gallery of all the images of the chapter",
+  "security_level": "member",
+  "css": ".infinite-item {\r\n    margin-left: auto;\r\n    margin-right: auto;\r\n}",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <div class=\"infinite-container\">\r\n        {% for imgsrc in images %}\r\n            <div class=\"infinite-item\">\r\n                <!--{% load static %}\r\n                <img src=\"{% static imgsrc %}\">-->\r\n                <img src=\"{{ imgsrc }}\">\r\n                <p>{{ imgsrc }}</p>\r\n            </div>\r\n        {% endfor %}\r\n    </div>\r\n    {% if images.has_next %}\r\n        <a class=\"infinite-more-link\" href=\"?page={{ images.next_page_number }}\">More</a>\r\n    {% endif %}\r\n</div>",
+  "footer": "",
+  "scripts": "{% load static %}\r\n<script src=\"{% static 'main/js/jquery/jquery.min.js' %}\"></script>\r\n<script src=\"{% static 'main/js/waypoints/lib/jquery.waypoints.min.js' %}\"></script>\r\n<script src=\"{% static 'main/js/waypoints/lib/shortcuts/infinite.min.js' %}\"></script>\r\n<script>\r\n    var infinite = new Waypoint.Infinite({\r\n        element: $('.infinite-container')[0]\r\n    });\r\n</script>"
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 25,
+ "fields": {
+  "name": "how_to_plan_events",
+  "description": "how to plan events",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>How to Plan an Event</h1>\r\n    <p>\r\n        If you're thinking of making an event for your brother alephs to enjoy, here are a few helpful tips to get you started!\r\n    </p>\r\n    <h2>Step 1: Come up with an idea</h2>\r\n    <p>\r\n        It can literaly be anything, EX: magnets\r\n    </p>\r\n    <h2>Step 2: Begin Brainstorming Programs</h2>\r\n    <p>\r\n        Again, can literaly be anything, EX: magnet tower building competition\r\n    </p>\r\n    <h2>Step 3: Talk to the Sgan</h2>\r\n    <p>\r\n        The Sgan is not only super cool, but also manages the calendar, and probably has experience. You should ask the Sgan for advice about your ideas and how to implement them best, and a date for your event.\r\n    </p>\r\n    <h2>Step 4: Put the finishing Touches on your Event</h2>\r\n    <p>\r\n        Disclaimer: this is normally done like 20 minutes before the event is supposed to start. DON'T DO THAT, try to give yourself at least an hour, you know? Oh, and make sure you have all of the necessary materials (there is a chapter event budget, but you need to get that approved)\r\n    </p>\r\n    <h2>Step 5: The Event!</h2>\r\n    <p>\r\n        Literally a hang out event is considered awesome, programming is an added bonus, basically anything you will do will be made super awesome because of the amount of super cool alephs there to support you.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 26,
+ "fields": {
+  "name": "key_terms",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1 name=\"important_terms\">Terms to Know</h1>\r\n    <p>\r\n        <h3>BBYO Terms to Know:</h3>\r\n        <ul>\r\n            <li><strong style=\"text-decoration:underline\">Chapter</strong>: The smallest and most fundamental thing in BBYO is a chapter. A chapter is simply a group of Alephs that have events each week and live in the same general area, Ex: Ramon AZA</li>\r\n            <li><strong style=\"text-decoration:underline\">Brother/Sister Chapter</strong>: A chapter that shares your chapter\u2019s recruitment territory, but is for the opposite gender, Ex: JSZ BBG and Ramon AZA</li>\r\n            <li><strong style=\"text-decoration:underline\">Region</strong>: A group of chapters that are all located in a relatively close proximity to one another, Ex: CRW</li>\r\n            <li><strong style=\"text-decoration:underline\">Board</strong>: A group of people with specific roles that help lead their section, BBYO as a whole, each region, and each chapter have their own board</li>\r\n            <li><strong style=\"text-decoration:underline\">Term</strong>: The 6 month period that a board serves</li>\r\n            <li><strong style=\"text-decoration:underline\">Advisor</strong>: Adults who supervise each chapter, they 'will let you skin your knee, but not break your neck'</li>\r\n        </ul>\r\n        <h3>Chapter Terms to Know:</h3>\r\n        <ul>\r\n            <li><strong style=\"text-decoration:underline\">Inductions</strong>: An event with an inductions ceremony at the end to induct new members into the chapter and re-induct old ones</li>\r\n            <li><strong style=\"text-decoration:underline\">Aleph in Training (AIT)</strong>: An event planned by the moreh where we learn about chapter heritage</li>\r\n            <li><strong style=\"text-decoration:underline\">Parent in Training (PIT)</strong>: An event, usually planned (in Ramon) by the Metaksher, used specifically to educate the parents of the chapter about BBYO and how they can be more involved in the chapter</li>\r\n            <li><strong style=\"text-decoration:underline\">Anniversary Night</strong>: Once a year on the Saturday closest to October 28th, we eat at Jake's Pizza and play minigolf to commerate Suess AZA's first event</li>\r\n            <li><strong style=\"text-decoration:underline\">Midstates</strong>: An event planned by the Gadol in the middle of the term, where he reviews the chapter\u2019s progress</li>\r\n            <li><strong style=\"text-decoration:underline\">Fraternity (Frat) Night</strong>: The event the saturday before elections where we chill and do some karaoke before the unfraternal event the next day</li>\r\n            <li><strong style=\"text-decoration:underline\">Elections</strong>: A sunday event where we select the alephs for the next term's board positions, labeled 'the most unfraternal day of the term'</li>\r\n            <li><strong style=\"text-decoration:underline\">Installations (Installs)</strong>: A ceremony where the old officers are retired and the newly elected ones are installed</li>\r\n            <li><strong style=\"text-decoration:underline\">Convention</strong>: A weekend long regional or chapter event</li>\r\n            <li><strong style=\"text-decoration:underline\">Leadership Summits (LS)</strong>: The fall convention specifically made to teach people about leadership and how to be better leaders.</li>\r\n            <li><strong style=\"text-decoration:underline\">Kallah</strong>: The convention with an emphasis on Judaism, both the chapter and the region hold one</li>\r\n            <li><strong style=\"text-decoration:underline\">Spring</strong>: The spring convention comprised mostly of chapter spirit, Seniors\u2019 last convention</li>\r\n            <li><strong style=\"text-decoration:underline\">Balaban</strong>: A convention at Steve Balaban\u2019s cool property in the mountains, there is a pool, and after the event portion, we climb Scar and sleep in tents</li>\r\n        </ul>\r\n    </p>\r\n    <h2 name=\"5_folds\">The 5 Folds</h2>\r\n    <p>\r\n        Each and every program at an event should fall into one of the 5 folds. Basically, the 5 folds are a guideline for what should be included at an event. The official BBYO definition for them are as follows:\r\n        <ul>\r\n            <li><strong style=\"text-decoration:underline\">Athletics</strong>: Sports in AZA have always been vital to the building of brotherhood and fraternity. Many councils and regions throughout the Order compete in several different sports. Not only do AZA chapters among the Order compete in sporting events, but also participate in games and athletic-based programming.</li>\r\n            <li><strong style=\"text-decoration:underline\">Community Service/Social Action</strong>: In accordance with Jewish tradition, AZA emphasizes the values of tikkun olam (repairing the world) and tzedakah (charity). Community service can entail a wide range of hands-on activities that involve direct service to those in need. Social action involves mobilizing and educating members to address problems that exist in society, and it requires a group not only to learn about these issues, but also to do something about them. AZA encourages members to take an active role in the community around them.</li>\r\n            <li><strong style=\"text-decoration:underline\">Education</strong>: Through AZA, Alephs are challenged to learn about things beyond themselves and the borderlines of our Jewish faith. Through educational programming teens learn material that broaden our knowledge and give each individual Aleph a new understanding about the world around them. Education also entails teaching members the traditions of AZA.</li>\r\n            <li><strong style=\"text-decoration:underline\">Judaic</strong>: Judaic programs bring a unique, spiritual aspect to life in AZA, seeking to develop an understanding of, and appreciation for, the religion and culture of the Jewish people. Through programming in the Judaic fold, we not only learn about our denomination of Judaism, but also about the ones around us, and about the branches that other members practice. Also, creative Jewish programs incorporate the popular culture of today, as well as traditional Jewish rituals.</li>\r\n            <li><strong style=\"text-decoration:underline\">Social</strong>: AZA chapters sponsor and participate in a wide variety of social programs, often with BBG chapters. While there is nothing wrong with simple social programming, it is important to be creative and use the fold in the proper proportion and to combine this with other folds for effective, meaningful programming.</li>\r\n        </ul>\r\n    </p>\r\n    <h2 name=\"7_cards\">The 7 Cardinal Principles</h2>\r\n    <p>\r\n        The 7 cardinal principles of AZA, often referred to as the 7 cards, are essentially the basic values of AZA. The official BBYO definitions for them are as follows:\r\n        <ul>\r\n            <li><strong style=\"text-decoration:underline\">Patriotism</strong>: Loyalty to my homeland, to its laws, to it's principles, to its ethics. To die for it if need be, but primarily to live for it.</li>\r\n            <li><strong style=\"text-decoration:underline\">Judaism</strong>: Always to observe the tenets of my faith; ever to do justice, love mercy, and walk humbly with the lord my G-d.</li>\r\n            <li><strong style=\"text-decoration:underline\">Filial Love</strong>: Ever to honor and love my parents. To be considerate of my elders and to respect age.</li>\r\n            <li><strong style=\"text-decoration:underline\">Charity</strong>: To give of myself and my substance for all worthy causes; to be kind and generous to all in need, regardless of race or color.</li>\r\n            <li><strong style=\"text-decoration:underline\">Conduct</strong>: Never too bold, never too forward, ever humble, ever observing the principles of gentlemen.</li>\r\n            <li><strong style=\"text-decoration:underline\">Purity</strong>: To keep my soul pure, my mind active, and my body healthy.</li>\r\n            <li><strong style=\"text-decoration:underline\">Fraternity</strong>: A spirit of sociability, of cooperation, and of friendship toward all AZA's that shall make of us one fellowship; a love of and a loyalty to AZA and it's Ideals.</li>\r\n        </ul>\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 27,
+ "fields": {
+  "name": "login",
+  "description": "the page where you login",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    {% if error %}\r\n        <p style=\"color:red\">{{ m }}</p>\r\n    {% endif %}\r\n    <form method='POST' action=\"/login/\">\r\n        {% csrf_token %}\r\n        {{ form }}\r\n        <input type=\"submit\" value=\"Login\">\r\n    </form>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 28,
+ "fields": {
+  "name": "member_list",
+  "description": "The chapter phone list",
+  "security_level": "member",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h4> Select group to view: {% if type == 'members' %} Members {% else %} <a href='/member_list/members/'>Members</a> {% endif %} &bull; {% if type == 'prospects' %} Prospects {% else %} <a href='/member_list/prospects/'>Prospects</a> {% endif %} &bull; {% if type == 'alumni' %} Alumni {% else %} <a href='/member_list/alumni/'>Alumni</a> {% endif %} </h4>\r\n\r\n<table>\r\n        <tr>\r\n            <th>Name</th>\r\n            {% if type == 'members' %}\r\n              <th>Position</th>\r\n            {% endif %}\r\n            <th>Email</th>\r\n            <th>Phone</th>\r\n            {% if type != 'alumni' %}\r\n              <th>Parent Name</th>\r\n              <th>Parent Email</th>\r\n              <th>Parent Phone</th>\r\n            {% endif %}\r\n        </tr>\r\n        {% load main_extras %}\r\n        {% for aleph in alephs %}\r\n            <tr>\r\n              <td>{{ aleph.name|name_filter }}</td>\r\n              {% if type == 'members' %}\r\n                <td>{{ aleph.role|title }}</td>\r\n              {% endif %}\r\n              <td>{{ aleph.email|data_filter|email_filter }}</td>\r\n              <td>{{ aleph.phone|data_filter|phone_filter }}</td>\r\n              {% if type != 'alumni' %}\r\n                <td>{{ aleph.parent_name|data_filter|name_filter }}</td>\r\n                <td>{{ aleph.parent_email|data_filter|email_filter }}</td>\r\n                <td>{{ aleph.parent_phone|data_filter|phone_filter }}</td>\r\n              {% endif %}\r\n            </tr>\r\n        {% endfor %}\r\n</table>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 29,
+ "fields": {
+  "name": "page",
+  "description": "Holds the data of a page in the database",
+  "security_level": "board",
+  "css": "pre {\r\n    line-height: 0.6;\r\n}",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "{% load main_extras %}\r\n<h1>Page: {{ page.name }}</h1>\r\n<h3>{{ page.description }}</h3>\r\n<h4>Security Level: {{ page.security_level }}</h4>\r\n<p>Absolute URL: <a href=\"{{ url }}\">ramonaza.org{{ url }}</a></p>\r\n<h2>\r\n    <a href=\"/dashboard/pages/{{ page.name }}/edit/\">Edit Page</a>\r\n</h2>\r\n<h2>Page HTML:</h2>\r\n{% if page.css != \"\" %}\r\n  <h4>Block: CSS</h4>\r\n  <p>this block holds page specific styling</p>\r\n  <pre><code>\r\n    {% for line in page.css.splitlines %}\r\n      {{ line|css_color }} <br>\r\n    {% endfor %}\r\n  </code></pre>\r\n{% endif %}\r\n{% if page.sidebar != \"\" %}\r\n  <h4> Block: Sidebar</h4>\r\n  <p>this block overrides a board member or advisor's sidebar<p>\r\n  <pre><code>\r\n    {% for line in page.sidebar.splitlines %}\r\n      {{ line|html_color }} <br>\r\n    {% endfor %}\r\n  </code></pre>\r\n{% endif %}\r\n{% if page.pagephoto != \"\" %}\r\n  <h4> Block: Page Photo</h4>\r\n  <p>this block holds the large photo at the top of the page directly beneath the navbar<p>\r\n  <pre><code>\r\n    {% for line in page.pagephoto.splitlines %}\r\n      {{ line|html_color }} <br>\r\n    {% endfor %}\r\n  </code></pre>\r\n{% endif %}\r\n<h4> Block: Content</h4>\r\n<p>this block holds the main content of the page, and is frequently placed into a spotlight<p>\r\n<pre><code>\r\n    {% for line in page.content.splitlines %}\r\n      {{ line|html_color }} <br>\r\n    {% endfor %}\r\n</code></pre>\r\n{% if page.footer != \"\" %}\r\n  <h4> Block: Footer</h4>\r\n  <p>this block overrides the footer at the bottom of the page<p>\r\n  <pre><code>\r\n    {% for line in page.footer.splitlines %}\r\n      {{ line|html_color }} <br>\r\n    {% endfor %}\r\n  </code></pre>\r\n{% endif %}\r\n{% if page.scripts != \"\" %}\r\n  <h4> Block: Scripts</h4>\r\n  <p>this block holds any page specific JavaScript<p>\r\n  <pre><code>\r\n    {% for line in page.scripts.splitlines %}\r\n      {{ line|js_color }} <br>\r\n    {% endfor %}\r\n  </code></pre>\r\n{% endif %}\r\n<br>\r\n<h2>Page Backend:</h2>\r\n<pre><code>\r\n    {% for line in view %}\r\n        {{ line|python_color }} <br>\r\n    {% endfor %}\r\n</code></pre>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 30,
+ "fields": {
+  "name": "pages",
+  "description": "A list and link to all of the PageTemplate objects in the database.",
+  "security_level": "board",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n  <h1>All Pages:</h1>\r\n  <h5 style=\"text-align:left\">Every page in the database is shown here, you can inspect and edit them by clicking on the name of the page. The security level of each page is indicated by the red super script (with no superscript being a security level of none)</h5>\r\n  <ul>\r\n    {% for page in page_templates %}\r\n      <li><a href=\"/dashboard/pages/{{ page }}/edit/\">{{ page }}</a><sup style=\"color:red\">{{ page.security_level }}</sup></li>\r\n    {% endfor %}\r\n  </ul>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 31,
+ "fields": {
+  "name": "parent_info",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Parent Information</h1>\r\n    <p>\r\n        As a parent, you know that our society demands a lot of youth these days. While dealing with the pressures of school and social groups, teens are expected to make mature decisions with limited life experience. AZA is at your side to help Jewish parents raise confident, engaged and well-prepared teenagers. Now, more than ever, our programs provide innovative opportunities and a stress-free environment that not only allows teens to customize their own experience but that also grows with them to accommodate their changing needs.\r\n        <br><br>\r\n        How does AZA provide such a unique experience?\r\n        <ul>\r\n            <li>By providing safe and enriching programs that the teens design themselves, fostering independent thinking and leadership abilities that will help prepare them for college and other adult endeavors.</li>\r\n            <li>By bringing together thousands of Jewish teens from all over the world, from the most traditional to non-practicing Jewish backgrounds, to share experiences that build character as they build friendships for life.</li>\r\n            <li>By exposing teens to Jewish culture, history and practice, and introducing new ways to help them apply Jewish principles to contemporary life and that encourage them to determine for themselves what being a Jew means.</li>\r\n        </ul>\r\n        AZA offers a time-tested model for leadership development. Teens are given real responsibilities and develop leadership skills that relate to their everyday lives. By practicing public speaking, program planning, community organizing and managing people, AZA teens build skills that not only make them more confident and capable of navigating the challenging teen years, but also prepare them to make positive contributions to the world around them as adults.\r\n        <br><br>\r\n        As well as being a fun and productive environment, AZA is a completely safe environment for all Jewish teens to be accepted regardless of their background. We have a strict zero-tolerance rule against any and all drugs and alcohol. In addition, violence is prohibited. Everyone in AZA is treated with respect and are not peer-pressured into things, making it the ideal environment for a Jewish teen.\r\n    </p>\r\n    <h2 name=\"contact\">Parents, Contact Us!</h2>\r\n    <p>\r\n        Hello, {% if single %} I am {% else %} we are {% endif %} {{ metaksher }}, and {% if single %} I am the metaksher {% else %} we are the co-metaksherim {% endif %} for this term. {% if single %}I am{% else %}We are{% endif %} in charge of our parent and alumni relations, and can be contacted through the chapter email account: <a href=\"mailto:ramon195aza@gmail.com\">ramon195aza@gmail.com</a>. <a href=\"/board_pages/aleph_metaksher/\">{% if single %}My{% else %}Our{% endif %} board page</a> contains more information on {% if single %}me, my goals, and my{% else %}us, our goals, and our{% endif %} contact information.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 33,
+ "fields": {
+  "name": "prayers",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Havdallah Prayers</h1>\r\n    <p>\r\n        Lai lai lai lai lai lai lai <br>\r\n        Lai lai lai lai lai lai lai\r\n        <br><br>\r\n        &#64305;&#1464;&#1512;&#64309;&#1498;&#1456; &#1488;&#1463;&#64330;&#1464;&#1492; &#1497;&#1456;&#1497;&#1464;, &#1488;&#1457;&#1500;&#1465;&#1492;&#1461;&#1497;&#1504;&#64309; &#1502;&#1462;&#1500;&#1462;&#1498;&#1456; &#1492;&#1464;&#1506;&#64331;&#1500;&#1464;&#1501;, &#64305;&#64331;&#1512;&#1461;&#1488; &#64324;&#1456;&#1512;&#1460;&#1497; &#1492;&#1463;&#1490;&#1464;&#1508;&#1462;&#1503;<br>\r\n        Baruch atah Adonai, Eloheinu, melech ha'olam, borei p'ri hagafen. <br>\r\n        Translation: Praised are You, Lord, King of the Universe, Who creates the fruit of the vine.\r\n        <br><br>\r\n        Lai lai lai lai lai lai lai <br>\r\n        Lai lai lai lai lai lai lai\r\n        <br><br>\r\n        &#64305;&#1464;&#1512;&#64309;&#1498;&#1456; &#1488;&#1463;&#64330;&#1464;&#1492; &#1497;&#1456;&#1497;&#1464;, &#1488;&#1457;&#1500;&#1465;&#1492;&#1461;&#1497;&#1504;&#64309; &#1502;&#1462;&#1500;&#1462;&#1498;&#1456; &#1492;&#1464;&#1506;&#64331;&#1500;&#1464;&#1501;, &#64305;&#64331;&#1512;&#1461;&#1488; &#1502;&#1460;&#1497;&#1504;&#1461;&#1497; &#1489;&#1456;&#64299;&#1464;&#1502;&#1460;&#1497;&#1501;<br>\r\n        Baruch atah Adonai, Eloheinu, melech ha'olam, borei minei v'samim. <br>\r\n        Translation: Praised are You, Lord, King of the Universe, Who creates fragrant spices\r\n        <br><br>\r\n        Lai lai lai lai lai lai lai <br>\r\n        Lai lai lai lai lai lai lai\r\n        <br><br>\r\n        &#64305;&#1464;&#1512;&#64309;&#1498;&#1456; &#1488;&#1463;&#64330;&#1464;&#1492; &#1497;&#1456;&#1497;&#1464;, &#1488;&#1457;&#1500;&#1465;&#1492;&#1461;&#1497;&#1504;&#64309; &#1502;&#1462;&#1500;&#1462;&#1498;&#1456; &#1492;&#1464;&#1506;&#64331;&#1500;&#1464;&#1501;, &#64305;&#64331;&#1512;&#1461;&#1488; &#1502;&#1456;&#1488;&#64331;&#1512;&#1461;&#1497; &#1492;&#1464;&#1488;&#1461;&#64298;<br>\r\n        Baruch atah Adonai, Eloheinu melech ha'olam, borei m'orei ha'eish. <br>\r\n        Translation: Praised are You, Lord, King of the Universe, Who creates the light of flame\r\n        <br><br>\r\n        Lai lai lai lai lai lai lai <br>\r\n        Lai lai lai lai lai lai lai\r\n        <br><br>\r\n        &#64305;&#1464;&#1512;&#64309;&#1498;&#1456; &#1488;&#1463;&#64330;&#1464;&#1492; &#1497;&#1456;&#1497;&#1464;, &#1492;&#1463;&#1502;&#1463;&#1489;&#1456;&#1491;&#1460;&#1497;&#1500; &#64305;&#1461;&#1497;&#1503; &#1511;&#1465;&#1491;&#1462;&#64298; &#1500;&#1456;&#1495;&#64331;&#1500;<br>\r\n        Baruch atah Adonai, hamav'dil bein kodesh l'chol. <br>\r\n        Translation: Praised are You, Lord, King of the Universe, who distinguishes between the sacred and profane.\r\n        <br><br>\r\n        Lai lai lai lai lai lai lai <br>\r\n        Lai lai lai lai lai lai lai\r\n    </p>\r\n    <h2>Shavua Tov</h2>\r\n    <p>\r\n        &#64298;&#1464;&#1489;&#64309;&#1506;&#1463; &#1496;&#64331;&#1489; (x8)<br>\r\n        Shavuah tov (x8)\r\n        <br><br>\r\n        A good week, a week of peace,\u00a0may gladness reign and joy increase <br>\r\n        A good week, a week of sleep, may gladness reign and joy increase\r\n    </p>\r\n    <h2>Eliyahu Hanavi</h2>\r\n        &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1492;&#1463;&#1504;&#1464;&#1489;&#1460;&#1497;&#1488;<br>\r\n        eliyahu ha'navi\r\n        <br><br>\r\n        &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1492;&#1463;&#64330;&#1460;&#64298;&#1456;&#64305;&#1460;&#1497;<br>\r\n        eliyahu ha'tishbi\r\n        <br><br>\r\n        &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1492;&#1463;&#1490;&#1460;&#1500;&#1456;&#1506;&#1464;&#1491;&#1460;&#1497;<br>\r\n        eliyahu eliyahu eliyahu ha'giladi\r\n        <br><br>\r\n        &#64305;&#1460;&#1502;&#1456;&#1492;&#1461;&#1512;&#1464;&#1492; &#1497;&#1464;&#1489;&#64331;&#1488; &#1488;&#1461;&#1500;&#1461;&#1497;&#1504;&#64309;<br>\r\n        Bim'herah yavo aleinu\r\n        <br><br>\r\n        &#1506;&#1460;&#1502; &#1502;&#1464;&#64298;&#1460;&#1497;&#1495;&#1463; &#64305;&#1462;&#1504; &#1491;&#1464;&#1493;&#1460;&#1491; (x2)<br>\r\n        im moshiah ben david (x2)\r\n        <br><br>\r\n        &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1492;&#1463;&#1504;&#1464;&#1489;&#1460;&#1497;&#1488;<br>\r\n        eliyahu hanavee\r\n        <br><br>\r\n        &#1488;&#1461;&#1500;&#1460;&#1497;&#1464;&#1492;&#64309; &#1492;&#1463;&#64330;&#1460;&#64298;&#1456;&#64305;&#1460;&#1497;<br>\r\n        eliyahu hatishbee\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 34,
+ "fields": {
+  "name": "ramon",
+  "description": "",
+  "security_level": "",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1 name=\"ramon\">About Ramon</h1>\r\n    <p>\r\n        Ramon AZA #195 is the BBYO AZA chapter located in Cupertino and Sunnyvale. We were founded by the name Dr. Seuss AZA #195, but after almost getting sued, we changed our name to Ramon, named after the first Israeli astronaut, Ilan Ramon and also after Asaf Ramon, an Israeli fighter pilot who was killed in flight. We were founded on October 28, 1991, and have been going strong ever since. Ramon holds events every Saturday and Sunday, and business meetings every other Wednesday, meaning there are plenty of times to join and get involved in BBYO.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 36,
+ "fields": {
+  "name": "sacred_chants",
+  "description": "Holds all chants from a better time...",
+  "security_level": "member + password",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Our Sacred Chants, Cheers from another Day</h1>\r\n    <h2 name=\"canal_street\">Canal Street</h2>\r\n    <h5>repeat after me song; traditionaly sung on the way to cars</h5>\r\n    <p>\r\n        Walking down Canal Street,<br>\r\n        Knocking on every door,<br>\r\n        Goddamn son of a bitch,<br>\r\n        I couldn't find a whore.\r\n        <br><br>\r\n        Finally found a whore,<br>\r\n        She was nice and thin,<br>\r\n        Goddamn son of a bitch,<br>\r\n        I couldn't get it in.\r\n        <br><br>\r\n        Finally got it in,<br>\r\n        Wiggled it all about,<br>\r\n        Goddamn son of a bitch,<br>\r\n        I couldn't get it out.\r\n        <br><br>\r\n        Finally got it out,<br>\r\n        It was red and sore,<br>\r\n        Moral of the story is,<br>\r\n        Never fuck a whore.\r\n        <br><br>\r\n        Six weeks later,<br>\r\n        I went for a piss,<br>\r\n        Goddamn son of a bitch,<br>\r\n        She gave me syphilis!\r\n        <br><br>\r\n        Nine months later,<br>\r\n        I'd forgotten what I did,<br>\r\n        Goddamn son of a bitch,<br>\r\n        She brought me home a kid!\r\n    </p>\r\n    <h2 name=\"air_force_ranger\">Air Force Ranger</h2>\r\n    <h5>repeat after me song</h5>\r\n    <p>\r\n        I want to be an air force ranger.<br>\r\n        I want to live a life of danger.<br>\r\n        I want to own an ocean liner.<br>\r\n        I want to pull a sixty-niner.\r\n        <br><br>\r\n        She's the women that I love best.<br>\r\n        Many times I've sucked her breasts.<br>\r\n        Fucked her standing, fucked her lying.<br>\r\n        If she had wings I'd fuck her flying.\r\n        <br><br>\r\n        Now she's dead, but not forgotten.<br>\r\n        I'll dig her up and fuck her rotten.<br>\r\n        I'm so sorry she is dead.<br>\r\n        Dick got chafed when she gave me head.\r\n        <br><br>\r\n        Shut the fucker in the ass.<br>\r\n        Dick got chafed and I got a rash.<br>\r\n        Lucky I had my Vaseline.<br>\r\n        Rubbed my dick and made it clean.\r\n        <br><br>\r\n        Now I masturbate all day.<br>\r\n        People say that I am gay.<br>\r\n        But I don't care what they say.<br>\r\n        'Cause I'm in AZA.\r\n    </p>\r\n    <h2 name=\"yo_ho\">Yo Ho</h2>\r\n    <h5>repeat after me song; actions are mimed</h5>\r\n    <p>\r\n        I put my finger on her toe, yo ho, yo ho,<br>\r\n        I put my finger on her toe, yo ho, yo ho,<br>\r\n        I put my finger on her toe,<br>\r\n        She said hey man, that's way too low,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        I put my finger on her knee, yo ho, yo ho,<br>\r\n        I put my finger on her knee, yo ho, yo ho,<br>\r\n        I put my finger on her knee,<br>\r\n        She said hey man, stop teasing me,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        I put my finger on her twat, yo ho, yo ho,<br>\r\n        I put my finger on her twat, yo ho, yo ho,<br>\r\n        I put my finger on her twat,<br>\r\n        She said hey man, that hits the spot,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        I put my finger in her ass, yo ho, yo ho,<br>\r\n        I put my finger in her ass, yo ho, yo ho,<br>\r\n        I put my finger in her ass,<br>\r\n        She said hey man, save that for last,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        I put my penis in her mouth, yo ho, yo ho,<br>\r\n        I put my penis in her mouth, yo ho, yo ho,<br>\r\n        I put my penis in her mouth,<br>\r\n        She said arghhakhsrjkankfj,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        We put her in a wooden box, yo ho, yo ho,<br>\r\n        We put her in a wooden box, yo ho, yo ho,<br>\r\n        We put her in a wooden box,<br>\r\n        She died from sucking too many cocks,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        We dig her up every now and then, yo ho, yo ho,<br>\r\n        We dig her up every now and then, yo ho, yo ho,<br>\r\n        We dig her up every now and then,<br>\r\n        We fucked her once, we'll fuck her again,<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n        <br><br>\r\n        (slow down and quiet down)\r\n        <br><br>\r\n        And now we're dead and off to hell, yo ho, yo ho,<br>\r\n        And now we're dead and off to hell, yo ho, yo ho,\r\n        <br><br>\r\n        (speed up and get louder)\r\n        <br><br>\r\n        And now we're dead and off to hell,<br>\r\n        We'll fuck the devil's wife as well<br>\r\n        Get in get out, stop fucking around, yo ho, yo ho, yo ho.\r\n    </p>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 37,
+ "fields": {
+  "name": "vote",
+  "description": "Allows alephs to vote in an election",
+  "security_level": "member",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n    <h1>Vote</h1>\r\n    <h2>Role: {{ role }}</h2>\r\n    <form method='POST' action=''>\r\n        {% csrf_token %}\r\n        {{ form.management_form }}\r\n        <h2>Candidate Choice:</h2>\r\n        {{ form.vote }}\r\n        <input type=\"submit\" value=\"Vote\">\r\n    </form>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 38,
+ "fields": {
+  "name": "dashboard",
+  "description": "Serves as the dashboard for people when they log in, allows them to edit their corresponding object (password only editable for advisors, can later be changed)",
+  "security_level": "board",
+  "css": "",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<div class=\"spotlight\">\r\n  <h1>Hello, {{ user.name }}</h1>\r\n  <p style=\"text-align:left\">Welcome to your dashboard, where you can edit your profile!</p>\r\n  <form method=\"POST\" action=\"/dashboard/\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h3>Personal Contact Information</h3>\r\n    <p>email: {{ form.email }}</p>\r\n    <p>phone number: {{ form.phone }}</p>\r\n    <h3>Parent Contact Information</h3>\r\n    <p>parent name: {{ form.parent_name }}</p>\r\n    <p>parent email: {{ form.parent_email }}</p>\r\n    <p>parent phone number: {{ form.parent_phone }}</p>\r\n    {% if user.role == 'advisor' %}\r\n      <h3>Other</h3>\r\n      <p>password: {{ form.password }}</p>\r\n    {% endif %}\r\n    <input type=\"submit\" value=\"Edit User\">\r\n  </form>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 39,
+ "fields": {
+  "name": "standard_edit_page",
+  "description": "The basic HTML edit interface meant for those without HTML experience. Uses Froala to handle HTML conversion.",
+  "security_level": "board",
+  "css": "sup {\r\n  color: red;\r\n}\r\n\r\n.inline {\r\n    display: inline;\r\n    line-height: 2rem;\r\n}\r\n\r\n.spotlight {\r\n  margin-bottom: 1rem;\r\n}\r\n\r\n.spotlight h4 {\r\n  text-align: left;\r\n}",
+  "head_extras": "{{ form.media }}",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h1>Edit Page: {{ page_name }}{% if possibility is not None %}: {{ possibility }}{% endif %}</h1>\r\n<div class=\"spotlight\">\r\n  <a href=\"advanced/\">Switch to Advanced View</a>\r\n  <form method=\"POST\" action=\"/dashboard/pages/{{ page_name}}/edit/\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h4 class=\"inline\">Name<sup>*</sup></h4> {{ form.name }} <br>\r\n    <h4>Description<sup>*</sup></h4> {{ form.description }} <br>\r\n    <h4 class=\"inline\">Security Level</h4> {{ form.security_level }} <br>\r\n    <h4>HTML Content<sup>*</sup></h4>\r\n    {{ form.html }}\r\n    <br>\r\n    <input type=\"submit\" value=\"Edit Page\">\r\n  </form>\r\n</div>",
+  "footer": "",
+  "scripts": ""
+ }
+},
+{
+ "model": "main.pagetemplate",
+ "pk": 40,
+ "fields": {
+  "name": "advanced_edit_page",
+  "description": "An advanced view for page editing",
+  "security_level": "board",
+  "css": "sup {\r\n  color: red;\r\n}\r\n\r\n.inline {\r\n    display: inline;\r\n    line-height: 2rem;\r\n}\r\n\r\n.spotlight {\r\n  margin-bottom: 1rem;\r\n}\r\n\r\n.spotlight h4 {\r\n  text-align: left;\r\n}",
+  "head_extras": "",
+  "sidebar": "",
+  "pagephoto": "",
+  "content": "<h1>Edit Page: {{ page_name }}{% if possibility is not None %}: {{ possibility }}{% endif %}</h1>\r\n<div class=\"spotlight\" style=\"float:left;width:50%\">\r\n  <a href=\"/dashboard/pages/{{ page_name }}/edit/\">Switch to Simple View</a>\r\n  <form method=\"POST\" action=\"/dashboard/pages/{{ page_name}}/edit/advanced/\">\r\n    {% csrf_token %}\r\n    {{ form.management_form }}\r\n    <h4 class=\"inline\">Name<sup>*</sup></h4> {{ form.name }} <br>\r\n    <h4 class=\"inline\">Description<sup>*</sup></h4> {{ form.description }} <br>\r\n    <h4 class=\"inline\">Security Level</h4> {{ form.security_level }} <br>\r\n    <h4>CSS</h4>\r\n    {{ form.css }}\r\n    <h4>&lt;head&gt; Extras</h4>\r\n    {{ form.head_extras }}\r\n    <h4>Sidebar</h4>\r\n    {{ form.sidebar }}\r\n    <h4>Pagephoto</h4>\r\n    {{ form.pagephoto }}\r\n    <h4>Content<sup>*</sup></h4>\r\n    {{ form.content }}\r\n    <h4>Footer</h4>\r\n    {{ form.footer }}\r\n    <h4>Scripts</h4>\r\n    {{ form.scripts }}\r\n    <br>\r\n    <input type=\"submit\" value=\"Edit Page\">\r\n  </form>\r\n</div>\r\n<div class=\"spotlight guide\" style=\"width:40%;float:right;\">\r\n  <h2>Guide</h2>\r\n  <h3>Fields:</h4>\r\n  <ul style=\"line-height:2rem;\">\r\n    <li><b>Name</b>: the name of the page, by default stored lowercase and with underscores connecting letters.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>sample_page</code></li>\r\n    </ul> <br>\r\n    <li><b>Description</b>: a brief description of the contents of the page and its purpose.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>used as an example within edit_page and add_page</code></li>\r\n    </ul> <br>\r\n    <li><b>Security Level</b>: indicates what the minimum access level to view the page is, the values are blank (<green>\"\"</green>) for everyone, <green>\"member\"</green> for members of the chapter, <green>\"board\"</green> for board members, and <green>\"advisor\"</green> for only advisors. There is also the special <green>\"member+password\"</green> access modifier for unique pages such as the cheers from a better age.</li>\r\n    <ul>\r\n      <li><b>Example</b>: <code>member</code></li>\r\n    </ul> <br>\r\n    <li><b>CSS</b>: holds the page specific CSS (Cascading Style Sheets) rules for the page. the format is the selector, such as h4 (to select all &lt;<blue>h4</blue>> elements), .spotlight (to select all elements with <blue>class=<green>\"spotlight\"</green></blue>), or #header (to select the unique element with <blue>id=<green>\"header\"</green></blue>) followed by curly braces ({}), \r\n with specific rules inside, such as <red>font-weight</red>: bold, always followed by a semicolon. for a more complete introduction to CSS, visit this <a href=\"https://www.w3schools.com/css/\">tutorial</a>.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n.spotlight {\r\n  <red>background-color</red>: darkgrey; <grey>/*makes spotlights become dark grey instead of grey (#f3f3f3)*/</grey>\r\n}\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Sidebar</b>: allows you to forcefully remove a board member or advisors side panel for the page, unless it is empty, the existing side panel will be overwritten.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>div</blue>>&lt;<blue>/div</blue>> <grey>&lt;!--makes side bar disappear--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Pagephoto</b>: stores an html image reference (&lt;<blue>img src=<green>\"<orange>&#123;&#123; file_path &#125;&#125;</orange>\"</green> /</blue>>) which is at the top of the page, make sure to only use images with a high resolution.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>img src=<green>\"https://www.w3schools.com/images/lamp.jpg\"</green></blue>> <grey>&lt;!--displays the image lamp.jpg from w3schools.com--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Content</b>: stores the actual html content of the page, it is often inscribed within a spotlight div (&lt;<blue>div class=<green>\"spotlight\"</green></blue>>  &lt;<blue>/div</blue>>) which creates the grey background and rounded corners that most pages have. For a more in depth guide into how to use html you can use this <a href=\"https://www.w3schools.com/html/\">tutorial</a> in conjunction with the website editing guide, which contains information on how to use the Django specific templating language (DTL).</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n<orange>&#123;&#123; test_var }}</orange> <grey>&lt;!-- displays the value of the variable test_var --></grey>\r\n<orange>&#123;% if test_var == \"potato\" %}</orange> <grey>&lt;!-- an if statement that checks if test_var equals the string potato, if it does, then the contents of the if statement will be displayed--></grey>\r\n  &lt;<blue>p</blue>>test_var equals potato!&lt;<blue>/p</blue>>\r\n<orange>&#123;% endif %}</orange>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Footer</b>: allows you to override the footer at the bottom of the page, unless it is empty, the default will be overwritten for the page.</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>div</blue>>&lt;<blue>/div</blue>> <grey>&lt;!--makes the footer disappear--></grey>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n    <li><b>Scripts</b>: stores page specific JavaScript code, things like JQuery can be linked here (&lt;<blue>script src=<green>\"<orange>&#123;&#123; path to the file &#125;&#125;</orange>\"</green> type=<green>\"text/js\"</gree></blue>>&lt;<blue>/script</blue>>) and code can be written within script tags (&lt;<blue>script type=<green>\"text/js\"</green></blue>>  &lt;<blue>/script</blue>>).</li>\r\n    <ul>\r\n      <li><b>Example</b>:\r\n        <pre><code>\r\n&lt;<blue>script src=<green>\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"</green></blue>>&lt;<blue>/script</blue>> <grey>&lt;!-- imports JQuery from the Google CDN for use in this page --></grey>\r\n&lt;<blue>script</blue>> <grey>//you can write JavaScript in here</grey>\r\n  <orange>$</orange>(document).ready(() <orange>-></orange> {\r\n    alert(<green>\"document ready\"</green>) <grey>//creates an alert popup that says document ready</grey>\r\n  });\r\n&lt;<blue>/script</blue>>\r\n        </code></pre>\r\n      </li>\r\n    </ul>\r\n  </ul>\r\n</div>\r\n</div>",
+  "footer": "<div></div>",
+  "scripts": ""
+ }
+}
+]
